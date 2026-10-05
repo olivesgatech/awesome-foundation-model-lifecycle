@@ -1,0 +1,4583 @@
+[
+  {
+    "id": "bommasani2021",
+    "title": "On the Opportunities and Risks of Foundation Models",
+    "authors": [
+      "Bommasani, Rishi",
+      "Hudson, Drew A.",
+      "Adeli, Ehsan",
+      "Altman, Russ",
+      "Arora, Simran",
+      "von Arx, Sydney",
+      "Bernstein, Michael S.",
+      "Bohg, Jeannette",
+      "Bosselut, Antoine",
+      "Brunskill, Emma",
+      "Brynjolfsson, Erik",
+      "Buch, Shyamal",
+      "Card, Dallas",
+      "Castellon, Rodrigo",
+      "Chatterji, Niladri",
+      "Chen, Annie",
+      "Creel, Kathleen",
+      "Davis, Jared Quincy",
+      "Demszky, Dora",
+      "Donahue, Chris",
+      "Doumbouya, Moussa",
+      "Durmus, Esin",
+      "Ermon, Stefano",
+      "Etchemendy, John",
+      "Ethayarajh, Kawin",
+      "Fei-Fei, Li",
+      "Finn, Chelsea",
+      "Gale, Trevor",
+      "Gillespie, Lauren",
+      "Goel, Karan",
+      "Goodman, Noah",
+      "Grossman, Shelby",
+      "Guha, Neel",
+      "Hashimoto, Tatsunori",
+      "Henderson, Peter",
+      "Hewitt, John",
+      "Ho, Daniel E.",
+      "Hong, Jenny",
+      "Hsu, Kyle",
+      "Huang, Jing",
+      "Icard, Thomas",
+      "Jain, Saahil",
+      "Jurafsky, Dan",
+      "Kalluri, Pratyusha",
+      "Karamcheti, Siddharth",
+      "Keeling, Geoff",
+      "Khani, Fereshte",
+      "Khattab, Omar",
+      "Koh, Pang Wei",
+      "Krass, Mark",
+      "Krishna, Ranjay",
+      "Kuditipudi, Rohith",
+      "Kumar, Ananya",
+      "Ladhak, Faisal",
+      "Lee, Mina",
+      "Lee, Tony",
+      "Leskovec, Jure",
+      "Levent, Isabelle",
+      "Li, Xiang Lisa",
+      "Li, Xuechen",
+      "Ma, Tengyu",
+      "Malik, Ali",
+      "Manning, Christopher D.",
+      "Mirchandani, Suvir",
+      "Mitchell, Eric",
+      "Munyikwa, Zanele",
+      "Nair, Suraj",
+      "Narayan, Avanika",
+      "Narayanan, Deepak",
+      "Newman, Ben",
+      "Nie, Allen",
+      "Niebles, Juan Carlos",
+      "Nilforoshan, Hamed",
+      "Nyarko, Julian",
+      "Ogut, Giray",
+      "Orr, Laurel",
+      "Papadimitriou, Isabel",
+      "Park, Joon Sung",
+      "Piech, Chris",
+      "Portelance, Eva",
+      "Potts, Christopher",
+      "Raghunathan, Aditi",
+      "Reich, Rob",
+      "Ren, Hongyu",
+      "Rong, Frieda",
+      "Roohani, Yusuf",
+      "Ruiz, Camilo",
+      "Ryan, Jack",
+      "Ré, Christopher",
+      "Sadigh, Dorsa",
+      "Sagawa, Shiori",
+      "Santhanam, Keshav",
+      "Shih, Andy",
+      "Srinivasan, Krishnan",
+      "Tamkin, Alex",
+      "Taori, Rohan",
+      "Thomas, Armin W.",
+      "Tramèr, Florian",
+      "Wang, Rose E.",
+      "Wang, William",
+      "Wu, Bohan",
+      "Wu, Jiajun",
+      "Wu, Yuhuai",
+      "Xie, Sang Michael",
+      "Yasunaga, Michihiro",
+      "You, Jiaxuan",
+      "Zaharia, Matei",
+      "Zhang, Michael",
+      "Zhang, Tianyi",
+      "Zhang, Xikun",
+      "Zhang, Yuhui",
+      "Zheng, Lucia",
+      "Zhou, Kaitlyn",
+      "Liang, Percy"
+    ],
+    "year": 2021,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2108.07258",
+    "origin": "survey",
+    "survey_sections": [
+      "1.2",
+      "1.3"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Frames reuse and homogenization: an upstream defect can propagate into many downstream systems.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2108.07258",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "On the Opportunities and Risks of Foundation Models"
+    }
+  },
+  {
+    "id": "informationbottleneck",
+    "title": "The Information Bottleneck Method",
+    "authors": [
+      "Tishby, Naftali",
+      "Pereira, Fernando C.",
+      "Bialek, William"
+    ],
+    "year": 2000,
+    "venue": "arXiv version of 1999 work",
+    "url": "https://arxiv.org/abs/physics/0004057",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1",
+      "2",
+      "3"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Provides the compression and information-preservation lens used throughout the monograph; not a universal theory of all training dynamics.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/physics/0004057",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "The information bottleneck method"
+    }
+  },
+  {
+    "id": "fgsm",
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "Goodfellow, Ian J.",
+      "Shlens, Jonathon",
+      "Szegedy, Christian"
+    ],
+    "year": 2015,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1412.6572",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "A foundational account of adversarial vulnerability and adversarial training, motivating explicit perturbation models.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1412.6572",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Explaining and Harnessing Adversarial Examples"
+    }
+  },
+  {
+    "id": "madry",
+    "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+    "authors": [
+      "Madry, Aleksander",
+      "Makelov, Aleksandar",
+      "Schmidt, Ludwig",
+      "Tsipras, Dimitris",
+      "Vladu, Adrian"
+    ],
+    "year": 2018,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1706.06083",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Formalizes adversarial training as robust optimization against a specified adversary.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1706.06083",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Towards Deep Learning Models Resistant to Adversarial Attacks"
+    },
+    "code_url": "https://github.com/MadryLab/mnist_challenge",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/MadryLab/mnist_challenge",
+      "page_title": "GitHub - MadryLab/mnist_challenge: A challenge to explore adversarial robustness of neural networks on MNIST. · GitHub"
+    }
+  },
+  {
+    "id": "tsipras",
+    "title": "Robustness May Be at Odds with Accuracy",
+    "authors": [
+      "Tsipras, Dimitris",
+      "Santurkar, Shibani",
+      "Engstrom, Logan",
+      "Turner, Alexander",
+      "Madry, Aleksander"
+    ],
+    "year": 2019,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1805.12152",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Studies circumstances in which standard accuracy and adversarial robustness compete.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1805.12152",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Robustness May Be at Odds with Accuracy"
+    }
+  },
+  {
+    "id": "ilyas",
+    "title": "Adversarial Examples Are Not Bugs, They Are Features",
+    "authors": [
+      "Ilyas, Andrew",
+      "Santurkar, Shibani",
+      "Tsipras, Dimitris",
+      "Engstrom, Logan",
+      "Tran, Brandon",
+      "Madry, Aleksander"
+    ],
+    "year": 2019,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1905.02175",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Connects adversarial vulnerability to predictive but fragile features learned from data.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1905.02175",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Adversarial Examples Are Not Bugs, They Are Features"
+    }
+  },
+  {
+    "id": "jacobsen",
+    "title": "Excessive Invariance Causes Adversarial Vulnerability",
+    "authors": [
+      "Jacobsen, Jörn-Henrik",
+      "Behrmann, Jens",
+      "Zemel, Richard",
+      "Bethge, Matthias"
+    ],
+    "year": 2019,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1811.00401",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Explains why preserving a prediction can itself be a failure when semantic content changes.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1811.00401",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Excessive Invariance Causes Adversarial Vulnerability"
+    }
+  },
+  {
+    "id": "trades",
+    "title": "Theoretically Principled Trade-off between Robustness and Accuracy",
+    "authors": [
+      "Zhang, Hongyang",
+      "Yu, Yaodong",
+      "Jiao, Jiantao",
+      "Xing, Eric P.",
+      "Ghaoui, Laurent El",
+      "Jordan, Michael I."
+    ],
+    "year": 2019,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/1901.08573",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Introduces TRADES to balance natural error and boundary error under an adversarial threat model.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1901.08573",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Theoretically Principled Trade-off between Robustness and Accuracy"
+    }
+  },
+  {
+    "id": "learningphases",
+    "title": "Understanding and Leveraging the Learning Phases of Neural Networks",
+    "authors": [
+      "Schneider, Johannes",
+      "Prabhushankar, Mohit"
+    ],
+    "year": 2024,
+    "venue": "AAAI",
+    "url": "https://arxiv.org/abs/2312.06887",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "foundations",
+    "annotation": "Studies changing reconstruction and transfer behavior across training, motivating checkpoint-aware evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2312.06887",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Understanding and Leveraging the Learning Phases of Neural Networks"
+    }
+  },
+  {
+    "id": "simclr",
+    "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+    "authors": [
+      "Chen, Ting",
+      "Kornblith, Simon",
+      "Norouzi, Mohammad",
+      "Hinton, Geoffrey"
+    ],
+    "year": 2020,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2002.05709",
+    "origin": "survey",
+    "survey_sections": [
+      "2.2"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Separates encoder representations from projector embeddings and establishes a sample-contrastive baseline.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2002.05709",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "A Simple Framework for Contrastive Learning of Visual Representations"
+    },
+    "code_url": "https://github.com/google-research/simclr",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/google-research/simclr",
+      "page_title": "GitHub - google-research/simclr: SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners · GitHub"
+    }
+  },
+  {
+    "id": "moco",
+    "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+    "authors": [
+      "He, Kaiming",
+      "Fan, Haoqi",
+      "Wu, Yuxin",
+      "Xie, Saining",
+      "Girshick, Ross"
+    ],
+    "year": 2020,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/abs/1911.05722",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Uses a momentum encoder and dictionary of negatives as a complementary representation-learning baseline.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1911.05722",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Momentum Contrast for Unsupervised Visual Representation Learning"
+    },
+    "code_url": "https://github.com/facebookresearch/moco",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/facebookresearch/moco",
+      "page_title": "GitHub - facebookresearch/moco: PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 · GitHub"
+    }
+  },
+  {
+    "id": "byol",
+    "title": "Bootstrap Your Own Latent - A New Approach to Self-Supervised Learning",
+    "authors": [
+      "Grill, Jean-Bastien",
+      "Strub, Florian",
+      "Altché, Florent",
+      "Tallec, Corentin",
+      "Richemond, Pierre H.",
+      "Buchatskaya, Elena",
+      "Doersch, Carl",
+      "Pires, Bernardo Avila",
+      "Guo, Zhaohan Daniel",
+      "Azar, Mohammad Gheshlaghi",
+      "Piot, Bilal",
+      "Kavukcuoglu, Koray",
+      "Munos, Rémi",
+      "Valko, Michal"
+    ],
+    "year": 2020,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2006.07733",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Provides a negative-free baseline for studying collapse prevention and representation transfer.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2006.07733",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Bootstrap your own latent: A new approach to self-supervised Learning"
+    }
+  },
+  {
+    "id": "simsiam",
+    "title": "Exploring Simple Siamese Representation Learning",
+    "authors": [
+      "Chen, Xinlei",
+      "He, Kaiming"
+    ],
+    "year": 2021,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/abs/2011.10566",
+    "origin": "survey",
+    "survey_sections": [
+      "2.1"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Isolates stop-gradient and predictor mechanisms in non-contrastive representation learning.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2011.10566",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Exploring Simple Siamese Representation Learning"
+    }
+  },
+  {
+    "id": "barlowtwins",
+    "title": "Barlow Twins: Self-Supervised Learning via Redundancy Reduction",
+    "authors": [
+      "Zbontar, Jure",
+      "Jing, Li",
+      "Misra, Ishan",
+      "LeCun, Yann",
+      "Deny, Stéphane"
+    ],
+    "year": 2021,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2103.03230",
+    "origin": "survey",
+    "survey_sections": [
+      "2.1",
+      "2.3"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Reduces cross-correlation redundancy, connecting learning objectives with representational diversity.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2103.03230",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Barlow Twins: Self-Supervised Learning via Redundancy Reduction"
+    }
+  },
+  {
+    "id": "vicreg",
+    "title": "VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning",
+    "authors": [
+      "Bardes, Adrien",
+      "Ponce, Jean",
+      "LeCun, Yann"
+    ],
+    "year": 2022,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2105.04906",
+    "origin": "survey",
+    "survey_sections": [
+      "2.2",
+      "2.5"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Separately regulates invariance, variance and covariance to resist representation collapse.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2105.04906",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning"
+    }
+  },
+  {
+    "id": "dino",
+    "title": "Emerging Properties in Self-Supervised Vision Transformers",
+    "authors": [
+      "Caron, Mathilde",
+      "Touvron, Hugo",
+      "Misra, Ishan",
+      "Jégou, Hervé",
+      "Mairal, Julien",
+      "Bojanowski, Piotr",
+      "Joulin, Armand"
+    ],
+    "year": 2021,
+    "venue": "ICCV",
+    "url": "https://arxiv.org/abs/2104.14294",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Connects self-distillation, visual transformers and emergent semantic structure.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2104.14294",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Emerging Properties in Self-Supervised Vision Transformers"
+    }
+  },
+  {
+    "id": "dinov2",
+    "title": "DINOv2: Learning Robust Visual Features without Supervision",
+    "authors": [
+      "Oquab, Maxime",
+      "Darcet, Timothée",
+      "Moutakanni, Théo",
+      "Vo, Huy",
+      "Szafraniec, Marc",
+      "Khalidov, Vasil",
+      "Fernandez, Pierre",
+      "Haziza, Daniel",
+      "Massa, Francisco",
+      "El-Nouby, Alaaeldin",
+      "Assran, Mahmoud",
+      "Ballas, Nicolas",
+      "Galuba, Wojciech",
+      "Howes, Russell",
+      "Huang, Po-Yao",
+      "Li, Shang-Wen",
+      "Misra, Ishan",
+      "Rabbat, Michael",
+      "Sharma, Vasu",
+      "Synnaeve, Gabriel",
+      "Xu, Hu",
+      "Jegou, Hervé",
+      "Mairal, Julien",
+      "Labatut, Patrick",
+      "Joulin, Armand",
+      "Bojanowski, Piotr"
+    ],
+    "year": 2024,
+    "venue": "TMLR",
+    "url": "https://arxiv.org/abs/2304.07193",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "A large-scale visual pretraining reference for evaluating transfer across tasks and domains.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2304.07193",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "DINOv2: Learning Robust Visual Features without Supervision",
+      "publication_source_url": "https://arxiv.org/pdf/2304.07193",
+      "publication_note": "The PDF first page identifies publication in Transactions on Machine Learning Research, January 2024."
+    },
+    "code_url": "https://github.com/facebookresearch/dinov2",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/facebookresearch/dinov2",
+      "page_title": "GitHub - facebookresearch/dinov2: PyTorch code and models for the DINOv2 self-supervised learning method. · GitHub"
+    }
+  },
+  {
+    "id": "mae",
+    "title": "Masked Autoencoders Are Scalable Vision Learners",
+    "authors": [
+      "He, Kaiming",
+      "Chen, Xinlei",
+      "Xie, Saining",
+      "Li, Yanghao",
+      "Dollár, Piotr",
+      "Girshick, Ross"
+    ],
+    "year": 2022,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/abs/2111.06377",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Adds masked reconstruction to the contrastive and redundancy-reduction families.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2111.06377",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Masked Autoencoders Are Scalable Vision Learners"
+    },
+    "code_url": "https://github.com/facebookresearch/mae",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/facebookresearch/mae",
+      "page_title": "GitHub - facebookresearch/mae: PyTorch implementation of MAE https//arxiv.org/abs/2111.06377 · GitHub"
+    }
+  },
+  {
+    "id": "bert",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Devlin, Jacob",
+      "Chang, Ming-Wei",
+      "Lee, Kenton",
+      "Toutanova, Kristina"
+    ],
+    "year": 2019,
+    "venue": "NAACL",
+    "url": "https://arxiv.org/abs/1810.04805",
+    "origin": "survey",
+    "survey_sections": [
+      "3"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Extends the lifecycle discussion to language pretraining and downstream adaptation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1810.04805",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+    }
+  },
+  {
+    "id": "alignmentuniformity",
+    "title": "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere",
+    "authors": [
+      "Wang, Tongzhou",
+      "Isola, Phillip"
+    ],
+    "year": 2020,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2005.10242",
+    "origin": "survey",
+    "survey_sections": [
+      "2.3",
+      "2.4"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Separates positive-pair alignment from the global spread of normalized representations.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2005.10242",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere"
+    },
+    "code_url": "https://github.com/SsnL/align_uniform",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/SsnL/align_uniform",
+      "page_title": "GitHub - ssnl/align_uniform: Open source code for paper &quot;Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere&quot; ICML 2020 · GitHub"
+    }
+  },
+  {
+    "id": "collapse",
+    "title": "Understanding Dimensional Collapse in Contrastive Self-Supervised Learning",
+    "authors": [
+      "Jing, Li",
+      "Vincent, Pascal",
+      "LeCun, Yann",
+      "Tian, Yuandong"
+    ],
+    "year": 2022,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2110.09348",
+    "origin": "survey",
+    "survey_sections": [
+      "2.4"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Distinguishes low-dimensional collapse from the trivial constant-representation failure.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2110.09348",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Understanding Dimensional Collapse in Contrastive Self-supervised Learning"
+    }
+  },
+  {
+    "id": "rankme",
+    "title": "RankMe: Assessing the Downstream Performance of Pretrained Self-Supervised Representations by Their Rank",
+    "authors": [
+      "Garrido, Quentin",
+      "Balestriero, Randall",
+      "Najman, Laurent",
+      "Lecun, Yann"
+    ],
+    "year": 2023,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2210.02885",
+    "origin": "survey",
+    "survey_sections": [
+      "2.4"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Uses effective rank for label-free representation assessment; pair it with direct downstream evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2210.02885",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "RankMe: Assessing the downstream performance of pretrained self-supervised representations by their rank"
+    }
+  },
+  {
+    "id": "lidar",
+    "title": "LiDAR: Sensing Linear Probing Performance in Joint Embedding SSL Architectures",
+    "authors": [
+      "Thilak, Vimal",
+      "Huang, Chen",
+      "Saremi, Omid",
+      "Dinh, Laurent",
+      "Goh, Hanlin",
+      "Nakkiran, Preetum",
+      "Susskind, Joshua M.",
+      "Littwin, Etai"
+    ],
+    "year": 2023,
+    "venue": "arXiv technical report",
+    "url": "https://arxiv.org/abs/2312.04000",
+    "origin": "survey",
+    "survey_sections": [
+      "2.3"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Offers a complementary unsupervised diagnostic for joint-embedding representations.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2312.04000",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "LiDAR: Sensing Linear Probing Performance in Joint Embedding SSL Architectures"
+    }
+  },
+  {
+    "id": "adadim",
+    "title": "AdaDim: Dimensionality Adaptation for SSL Representational Dynamics",
+    "authors": [
+      "Kokilepersaud, Kiran",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2505.12576",
+    "origin": "survey",
+    "survey_sections": [
+      "2.5"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Adapts the balance between decorrelation and sample uniformity as training progresses.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2505.12576",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "AdaDim: Dimensionality Adaptation for SSL Representational Dynamics"
+    }
+  },
+  {
+    "id": "hex",
+    "title": "HEX: Hierarchical Emergence Exploitation in Self-Supervised Algorithms",
+    "authors": [
+      "Kokilepersaud, Kiran",
+      "Kim, Seulgi",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2025,
+    "venue": "WACV",
+    "url": "https://arxiv.org/abs/2410.23200",
+    "origin": "survey",
+    "survey_sections": [
+      "5.3",
+      "2.4"
+    ],
+    "stage": "A priori",
+    "topic": "ssl",
+    "annotation": "Regularizes emerging local hierarchies during SSL; chapter placement concerns alignment, but the intervention occurs during pretraining.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2410.23200",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "HEX: Hierarchical Emergence Exploitation in Self-Supervised Algorithms"
+    },
+    "cross_stage_note": "Discussed in the alignment chapter; the method regularizes SSL pretraining."
+  },
+  {
+    "id": "attention",
+    "title": "Attention Is All You Need",
+    "authors": [
+      "Vaswani, Ashish",
+      "Shazeer, Noam",
+      "Parmar, Niki",
+      "Uszkoreit, Jakob",
+      "Jones, Llion",
+      "Gomez, Aidan N.",
+      "Kaiser, Lukasz",
+      "Polosukhin, Illia"
+    ],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1706.03762",
+    "origin": "survey",
+    "survey_sections": [
+      "3"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "The transformer starting point for examining tokenization, attention and architectural sensitivity.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1706.03762",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Attention Is All You Need"
+    }
+  },
+  {
+    "id": "vit",
+    "title": "An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Dosovitskiy, Alexey",
+      "Beyer, Lucas",
+      "Kolesnikov, Alexander",
+      "Weissenborn, Dirk",
+      "Zhai, Xiaohua",
+      "Unterthiner, Thomas",
+      "Dehghani, Mostafa",
+      "Minderer, Matthias",
+      "Heigold, Georg",
+      "Gelly, Sylvain",
+      "Uszkoreit, Jakob",
+      "Houlsby, Neil"
+    ],
+    "year": 2021,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2010.11929",
+    "origin": "survey",
+    "survey_sections": [
+      "3.1"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Introduces image patch tokens and visual transformer pretraining at scale.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2010.11929",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+    },
+    "code_url": "https://github.com/google-research/vision_transformer",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/google-research/vision_transformer",
+      "page_title": "GitHub - google-research/vision_transformer · GitHub"
+    }
+  },
+  {
+    "id": "swin",
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "authors": [
+      "Liu, Ze",
+      "Lin, Yutong",
+      "Cao, Yue",
+      "Hu, Han",
+      "Wei, Yixuan",
+      "Zhang, Zheng",
+      "Lin, Stephen",
+      "Guo, Baining"
+    ],
+    "year": 2021,
+    "venue": "ICCV",
+    "url": "https://arxiv.org/abs/2103.14030",
+    "origin": "survey",
+    "survey_sections": [
+      "7.8"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "A hierarchical attention reference for assessing architecture-dependent transfer and explanation behavior.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2103.14030",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
+    },
+    "code_url": "https://github.com/microsoft/Swin-Transformer",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/microsoft/Swin-Transformer",
+      "page_title": "GitHub - microsoft/Swin-Transformer: This is an official implementation for &quot;Swin Transformer: Hierarchical Vision Transformer using Shifted Windows&quot;. · GitHub"
+    }
+  },
+  {
+    "id": "vitrobustness",
+    "title": "Understanding the Robustness in Vision Transformers",
+    "authors": [
+      "Zhou, Daquan",
+      "Yu, Zhiding",
+      "Xie, Enze",
+      "Xiao, Chaowei",
+      "Anandkumar, Anima",
+      "Feng, Jiashi",
+      "Alvarez, Jose M."
+    ],
+    "year": 2022,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2204.12451",
+    "origin": "survey",
+    "survey_sections": [
+      "3.2"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Studies how transformer mechanisms relate to corruption robustness and visual grouping.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2204.12451",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Understanding The Robustness in Vision Transformers"
+    },
+    "code_url": "https://github.com/NVlabs/FAN",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/NVlabs/FAN",
+      "page_title": "GitHub - NVlabs/FAN: Official PyTorch implementation of Fully Attentional Networks · GitHub"
+    }
+  },
+  {
+    "id": "patchcorruption",
+    "title": "Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions",
+    "authors": [
+      "Guo, Yong",
+      "Stutz, David",
+      "Schiele, Bernt"
+    ],
+    "year": 2023,
+    "venue": "CVPR",
+    "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Improving_Robustness_of_Vision_Transformers_by_Reducing_Sensitivity_To_Patch_CVPR_2023_paper.html",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Targets localized patch sensitivity as a concrete architectural robustness failure.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Improving_Robustness_of_Vision_Transformers_by_Reducing_Sensitivity_To_Patch_CVPR_2023_paper.html",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Improving Robustness of Vision Transformers by Reducing Sensitivity To Patch Corruptions"
+    }
+  },
+  {
+    "id": "clip",
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Radford, Alec",
+      "Kim, Jong Wook",
+      "Hallacy, Chris",
+      "Ramesh, Aditya",
+      "Goh, Gabriel",
+      "Agarwal, Sandhini",
+      "Sastry, Girish",
+      "Askell, Amanda",
+      "Mishkin, Pamela",
+      "Clark, Jack",
+      "Krueger, Gretchen",
+      "Sutskever, Ilya"
+    ],
+    "year": 2021,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2103.00020",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "A foundational vision-language pretraining reference for zero-shot transfer and prompt sensitivity.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2103.00020",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Learning Transferable Visual Models From Natural Language Supervision"
+    },
+    "code_url": "https://github.com/OpenAI/CLIP",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/OpenAI/CLIP",
+      "page_title": "GitHub - openai/CLIP: CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image · GitHub"
+    }
+  },
+  {
+    "id": "imagebind",
+    "title": "ImageBind: One Embedding Space To Bind Them All",
+    "authors": [
+      "Girdhar, Rohit",
+      "El-Nouby, Alaaeldin",
+      "Liu, Zhuang",
+      "Singh, Mannat",
+      "Alwala, Kalyan Vasudev",
+      "Joulin, Armand",
+      "Misra, Ishan"
+    ],
+    "year": 2023,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/abs/2305.05665",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Extends cross-modal representation learning beyond image-text pairs to multiple sensor modalities.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2305.05665",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "ImageBind: One Embedding Space To Bind Them All"
+    },
+    "code_url": "https://github.com/facebookresearch/ImageBind",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/facebookresearch/ImageBind",
+      "page_title": "GitHub - facebookresearch/ImageBind: ImageBind One Embedding Space to Bind Them All · GitHub"
+    }
+  },
+  {
+    "id": "multimodalsurvey",
+    "title": "Multimodal Machine Learning: A Survey and Taxonomy",
+    "authors": [
+      "Baltrušaitis, Tadas",
+      "Ahuja, Chaitanya",
+      "Morency, Louis-Philippe"
+    ],
+    "year": 2019,
+    "venue": "IEEE TPAMI",
+    "url": "https://arxiv.org/abs/1705.09406",
+    "origin": "survey",
+    "survey_sections": [
+      "3.5"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Provides the broader taxonomy of multimodal representation, alignment and fusion problems.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1705.09406",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Multimodal Machine Learning: A Survey and Taxonomy"
+    }
+  },
+  {
+    "id": "multimodalib",
+    "title": "Aligning Multimodal Representations through an Information Bottleneck",
+    "authors": [
+      "Almudévar, Antonio",
+      "Hernández-Lobato, José Miguel",
+      "Khurana, Sameer",
+      "Marxer, Ricard",
+      "Ortega, Alfonso"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2506.04870",
+    "origin": "survey",
+    "survey_sections": [
+      "3.5.3"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Studies shared information across modalities and motivates limits on indiscriminate alignment.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2506.04870",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Aligning Multimodal Representations through an Information Bottleneck"
+    }
+  },
+  {
+    "id": "r3d",
+    "title": "Countering Multi-modal Representation Collapse through Rank-targeted Fusion",
+    "authors": [
+      "Kim, Seulgi",
+      "Kokilepersaud, Kiran",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2026,
+    "venue": "WACV",
+    "url": "https://arxiv.org/abs/2511.06450",
+    "origin": "survey",
+    "survey_sections": [
+      "3.6"
+    ],
+    "stage": "A priori",
+    "topic": "architecture",
+    "annotation": "Uses rank-targeted fusion to counter feature and modality collapse in action anticipation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2511.06450",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Countering Multi-modal Representation Collapse through Rank-targeted Fusion"
+    },
+    "code_url": "https://github.com/olivesgatech/R3D",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/R3D",
+      "page_title": "GitHub - olivesgatech/R3D: Countering Multi-modal Representation Collapse through Rank-targeted Fusion (WACV 2026) · GitHub"
+    }
+  },
+  {
+    "id": "inforouter",
+    "title": "Information Router for Mitigating Modality Dominance in Vision-Language Models",
+    "authors": [
+      "Kim, Seulgi",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2604.16264",
+    "origin": "survey",
+    "survey_sections": [
+      "3.5",
+      "8.1.3"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Adds information routing to multimodal fine-tuning, targeting modality imbalance before fusion with a pretrained language model.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2604.16264",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Information Router for Mitigating Modality Dominance in Vision-Language Models"
+    },
+    "cross_stage_note": "The source evaluates LoRA fine-tuning with MoIR. Its architecture discussion in Chapters 3 and 8 connects to a posteriori adaptation."
+  },
+  {
+    "id": "datacomp",
+    "title": "DataComp: In Search of the Next Generation of Multimodal Datasets",
+    "authors": [
+      "Gadre, Samir Yitzhak",
+      "Ilharco, Gabriel",
+      "Fang, Alex",
+      "Hayase, Jonathan",
+      "Smyrnis, Georgios",
+      "Nguyen, Thao",
+      "Marten, Ryan",
+      "Wortsman, Mitchell",
+      "Ghosh, Dhruba",
+      "Zhang, Jieyu",
+      "Orgad, Eyal",
+      "Entezari, Rahim",
+      "Daras, Giannis",
+      "Pratt, Sarah",
+      "Ramanujan, Vivek",
+      "Bitton, Yonatan",
+      "Marathe, Kalyani",
+      "Mussmann, Stephen",
+      "Vencu, Richard",
+      "Cherti, Mehdi",
+      "Krishna, Ranjay",
+      "Koh, Pang Wei",
+      "Saukh, Olga",
+      "Ratner, Alexander",
+      "Song, Shuran",
+      "Hajishirzi, Hannaneh",
+      "Farhadi, Ali",
+      "Beaumont, Romain",
+      "Oh, Sewoong",
+      "Dimakis, Alex",
+      "Jitsev, Jenia",
+      "Carmon, Yair",
+      "Shankar, Vaishaal",
+      "Schmidt, Ludwig"
+    ],
+    "year": 2023,
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "url": "https://arxiv.org/abs/2304.14108",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "data",
+    "annotation": "Makes data curation a controlled pretraining variable rather than an implicit background choice.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2304.14108",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "DataComp: In search of the next generation of multimodal datasets"
+    }
+  },
+  {
+    "id": "dedup",
+    "title": "Deduplicating Training Data Makes Language Models Better",
+    "authors": [
+      "Lee, Katherine",
+      "Ippolito, Daphne",
+      "Nystrom, Andrew",
+      "Zhang, Chiyuan",
+      "Eck, Douglas",
+      "Callison-Burch, Chris",
+      "Carlini, Nicholas"
+    ],
+    "year": 2022,
+    "venue": "ACL",
+    "url": "https://arxiv.org/abs/2107.06499",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "data",
+    "annotation": "Connects deduplication with language-model quality, memorization and evaluation contamination.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2107.06499",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Deduplicating Training Data Makes Language Models Better"
+    },
+    "code_url": "https://github.com/google-research/deduplicate-text-datasets",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/google-research/deduplicate-text-datasets",
+      "page_title": "GitHub - google-research/deduplicate-text-datasets · GitHub"
+    }
+  },
+  {
+    "id": "chinchilla",
+    "title": "Training Compute-Optimal Large Language Models",
+    "authors": [
+      "Hoffmann, Jordan",
+      "Borgeaud, Sebastian",
+      "Mensch, Arthur",
+      "Buchatskaya, Elena",
+      "Cai, Trevor",
+      "Rutherford, Eliza",
+      "Casas, Diego de Las",
+      "Hendricks, Lisa Anne",
+      "Welbl, Johannes",
+      "Clark, Aidan",
+      "Hennigan, Tom",
+      "Noland, Eric",
+      "Millican, Katie",
+      "Driessche, George van den",
+      "Damoc, Bogdan",
+      "Guy, Aurelia",
+      "Osindero, Simon",
+      "Simonyan, Karen",
+      "Elsen, Erich",
+      "Rae, Jack W.",
+      "Vinyals, Oriol",
+      "Sifre, Laurent"
+    ],
+    "year": 2022,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2203.15556",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A priori",
+    "topic": "data",
+    "annotation": "Places model size and training-data volume in the lifecycle; compute efficiency alone does not establish robustness.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2203.15556",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Training Compute-Optimal Large Language Models"
+    }
+  },
+  {
+    "id": "badnets",
+    "title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain",
+    "authors": [
+      "Gu, Tianyu",
+      "Dolan-Gavitt, Brendan",
+      "Garg, Siddharth"
+    ],
+    "year": 2017,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/1708.06733",
+    "origin": "survey",
+    "survey_sections": [
+      "8.3",
+      "8.4"
+    ],
+    "stage": "A priori",
+    "topic": "data",
+    "annotation": "Makes poisoned training and third-party checkpoints explicit upstream robustness concerns.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1708.06733",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain"
+    }
+  },
+  {
+    "id": "supcon",
+    "title": "Supervised Contrastive Learning",
+    "authors": [
+      "Khosla, Prannay",
+      "Teterwak, Piotr",
+      "Wang, Chen",
+      "Sarna, Aaron",
+      "Tian, Yonglong",
+      "Isola, Phillip",
+      "Maschinot, Aaron",
+      "Liu, Ce",
+      "Krishnan, Dilip"
+    ],
+    "year": 2020,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2004.11362",
+    "origin": "survey",
+    "survey_sections": [
+      "4.2.3"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Uses label-aware positives and negatives to transfer representation learning toward a downstream task.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2004.11362",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Supervised Contrastive Learning"
+    }
+  },
+  {
+    "id": "lora",
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "Hu, Edward J.",
+      "Shen, Yelong",
+      "Wallis, Phillip",
+      "Allen-Zhu, Zeyuan",
+      "Li, Yuanzhi",
+      "Wang, Shean",
+      "Wang, Lu",
+      "Chen, Weizhu"
+    ],
+    "year": 2022,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2106.09685",
+    "origin": "survey",
+    "survey_sections": [
+      "4.2.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Adapts selected weight matrices with low-rank updates while freezing original backbone parameters.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2106.09685",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "LoRA: Low-Rank Adaptation of Large Language Models"
+    },
+    "code_url": "https://github.com/microsoft/LoRA",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/microsoft/LoRA",
+      "page_title": "GitHub - microsoft/LoRA: Code for loralib, an implementation of &quot;LoRA: Low-Rank Adaptation of Large Language Models&quot; · GitHub"
+    }
+  },
+  {
+    "id": "adapters",
+    "title": "Parameter-Efficient Transfer Learning for NLP",
+    "authors": [
+      "Houlsby, Neil",
+      "Giurgiu, Andrei",
+      "Jastrzebski, Stanislaw",
+      "Morrone, Bruna",
+      "de Laroussilhe, Quentin",
+      "Gesmundo, Andrea",
+      "Attariyan, Mona",
+      "Gelly, Sylvain"
+    ],
+    "year": 2019,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/1902.00751",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "An early adapter-based approach for reusing pretrained models across downstream tasks.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1902.00751",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Parameter-Efficient Transfer Learning for NLP"
+    }
+  },
+  {
+    "id": "qlora",
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "authors": [
+      "Dettmers, Tim",
+      "Pagnoni, Artidoro",
+      "Holtzman, Ari",
+      "Zettlemoyer, Luke"
+    ],
+    "year": 2023,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2305.14314",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Combines quantized base weights and low-rank adaptation, expanding practical post-training options.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2305.14314",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "QLoRA: Efficient Finetuning of Quantized LLMs"
+    }
+  },
+  {
+    "id": "sam",
+    "title": "Segment Anything",
+    "authors": [
+      "Kirillov, Alexander",
+      "Mintun, Eric",
+      "Ravi, Nikhila",
+      "Mao, Hanzi",
+      "Rolland, Chloe",
+      "Gustafson, Laura",
+      "Xiao, Tete",
+      "Whitehead, Spencer",
+      "Berg, Alexander C.",
+      "Lo, Wan-Yen",
+      "Dollár, Piotr",
+      "Girshick, Ross"
+    ],
+    "year": 2023,
+    "venue": "ICCV",
+    "url": "https://arxiv.org/abs/2304.02643",
+    "origin": "survey",
+    "survey_sections": [
+      "1.2",
+      "4.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "A promptable visual foundation model connecting pretraining, prompt interfaces and task-specific evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2304.02643",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Segment Anything"
+    },
+    "code_url": "https://github.com/facebookresearch/segment-anything",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/facebookresearch/segment-anything",
+      "page_title": "GitHub - facebookresearch/segment-anything: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. · GitHub"
+    }
+  },
+  {
+    "id": "medsam",
+    "title": "Segment Anything in Medical Images",
+    "authors": [
+      "Ma, Jun",
+      "He, Yuting",
+      "Li, Feifei",
+      "Han, Lin",
+      "You, Chenyu",
+      "Wang, Bo"
+    ],
+    "year": 2024,
+    "venue": "Nature Communications",
+    "url": "https://arxiv.org/abs/2304.12306",
+    "origin": "survey",
+    "survey_sections": [
+      "4.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "A concrete medical adaptation case for examining domain-specific segmentation transfer.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2304.12306",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Segment Anything in Medical Images"
+    },
+    "code_url": "https://github.com/bowang-lab/MedSAM",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/bowang-lab/MedSAM",
+      "page_title": "GitHub - bowang-lab/MedSAM: Segment Anything in Medical Images · GitHub"
+    }
+  },
+  {
+    "id": "clinicaloct",
+    "title": "Clinically Labeled Contrastive Learning for OCT Biomarker Classification",
+    "authors": [
+      "Kokilepersaud, Kiran",
+      "Corona, Stephanie Trejo",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan",
+      "Wykoff, Charles"
+    ],
+    "year": 2023,
+    "venue": "IEEE JBHI",
+    "url": "https://arxiv.org/abs/2305.15154",
+    "origin": "survey",
+    "survey_sections": [
+      "4.6"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Uses clinical labels to learn representations before fitting biomarker classifiers with fewer expert annotations.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2305.15154",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Clinically Labeled Contrastive Learning for OCT Biomarker Classification"
+    },
+    "code_url": "https://github.com/olivesgatech/SupCon_OCT_Clinical",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/SupCon_OCT_Clinical",
+      "page_title": "GitHub - olivesgatech/SupCon_OCT_Clinical · GitHub"
+    }
+  },
+  {
+    "id": "dann",
+    "title": "Domain-Adversarial Training of Neural Networks",
+    "authors": [
+      "Ganin, Yaroslav",
+      "Ustinova, Evgeniya",
+      "Ajakan, Hana",
+      "Germain, Pascal",
+      "Larochelle, Hugo",
+      "Laviolette, François",
+      "Marchand, Mario",
+      "Lempitsky, Victor"
+    ],
+    "year": 2016,
+    "venue": "JMLR",
+    "url": "https://arxiv.org/abs/1505.07818",
+    "origin": "survey",
+    "survey_sections": [
+      "4.3"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "A source-to-target alignment baseline when unlabeled target data are available.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1505.07818",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Domain-Adversarial Training of Neural Networks"
+    }
+  },
+  {
+    "id": "coral",
+    "title": "Deep CORAL: Correlation Alignment for Deep Domain Adaptation",
+    "authors": [
+      "Sun, Baochen",
+      "Saenko, Kate"
+    ],
+    "year": 2016,
+    "venue": "ECCV Workshops",
+    "url": "https://arxiv.org/abs/1607.01719",
+    "origin": "survey",
+    "survey_sections": [
+      "4.3"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Aligns second-order feature statistics across domains; useful for examining negative transfer.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1607.01719",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Deep CORAL: Correlation Alignment for Deep Domain Adaptation"
+    }
+  },
+  {
+    "id": "domainbed",
+    "title": "In Search of Lost Domain Generalization",
+    "authors": [
+      "Gulrajani, Ishaan",
+      "Lopez-Paz, David"
+    ],
+    "year": 2021,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2007.01434",
+    "origin": "survey",
+    "survey_sections": [
+      "4.3"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Emphasizes model selection and fair comparison under unseen-domain evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2007.01434",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "In Search of Lost Domain Generalization"
+    },
+    "code_url": "https://github.com/facebookresearch/DomainBed",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/facebookresearch/DomainBed",
+      "page_title": "GitHub - facebookresearch/DomainBed: DomainBed is a suite to test domain generalization algorithms · GitHub"
+    }
+  },
+  {
+    "id": "tent",
+    "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
+    "authors": [
+      "Wang, Dequan",
+      "Shelhamer, Evan",
+      "Liu, Shaoteng",
+      "Olshausen, Bruno",
+      "Darrell, Trevor"
+    ],
+    "year": 2021,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2006.10726",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Adapts selected parameters on unlabeled test data, illustrating adaptation that happens during deployment.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2006.10726",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Tent: Fully Test-time Adaptation by Entropy Minimization"
+    },
+    "code_url": "https://github.com/DequanWang/tent",
+    "cross_stage_note": "Adaptation mechanism executed during inference or deployment.",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/DequanWang/tent",
+      "page_title": "GitHub - DequanWang/tent: ICLR21 Tent: Fully Test-Time Adaptation by Entropy Minimization · GitHub"
+    }
+  },
+  {
+    "id": "cotta",
+    "title": "Continual Test-Time Domain Adaptation",
+    "authors": [
+      "Wang, Qin",
+      "Fink, Olga",
+      "Van Gool, Luc",
+      "Dai, Dengxin"
+    ],
+    "year": 2022,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/abs/2203.13591",
+    "origin": "survey",
+    "survey_sections": [
+      "4.4.1"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Studies continuous adaptation under changing test conditions while limiting forgetting and error accumulation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2203.13591",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Continual Test-Time Domain Adaptation"
+    },
+    "cross_stage_note": "Adaptation mechanism executed during inference or deployment."
+  },
+  {
+    "id": "rotta",
+    "title": "Robust Test-Time Adaptation in Dynamic Scenarios",
+    "authors": [
+      "Yuan, Longhui",
+      "Xie, Binhui",
+      "Li, Shuang"
+    ],
+    "year": 2023,
+    "venue": "CVPR",
+    "url": "https://arxiv.org/abs/2303.13899",
+    "origin": "survey",
+    "survey_sections": [
+      "4.4.1"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Addresses test-stream conditions that challenge stationary or independent-batch assumptions.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2303.13899",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Robust Test-Time Adaptation in Dynamic Scenarios"
+    },
+    "code_url": "https://github.com/BIT-DA/RoTTA",
+    "cross_stage_note": "Adaptation mechanism executed during inference or deployment.",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/BIT-DA/RoTTA",
+      "page_title": "GitHub - BIT-DA/RoTTA: [CVPR 2023] Robust Test-Time Adaptation in Dynamic Scenarios. https://arxiv.org/abs/2303.13899 · GitHub"
+    }
+  },
+  {
+    "id": "gpt3",
+    "title": "Language Models Are Few-Shot Learners",
+    "authors": [
+      "Brown, Tom B.",
+      "Mann, Benjamin",
+      "Ryder, Nick",
+      "Subbiah, Melanie",
+      "Kaplan, Jared",
+      "Dhariwal, Prafulla",
+      "Neelakantan, Arvind",
+      "Shyam, Pranav",
+      "Sastry, Girish",
+      "Askell, Amanda",
+      "Agarwal, Sandhini",
+      "Herbert-Voss, Ariel",
+      "Krueger, Gretchen",
+      "Henighan, Tom",
+      "Child, Rewon",
+      "Ramesh, Aditya",
+      "Ziegler, Daniel M.",
+      "Wu, Jeffrey",
+      "Winter, Clemens",
+      "Hesse, Christopher",
+      "Chen, Mark",
+      "Sigler, Eric",
+      "Litwin, Mateusz",
+      "Gray, Scott",
+      "Chess, Benjamin",
+      "Clark, Jack",
+      "Berner, Christopher",
+      "McCandlish, Sam",
+      "Radford, Alec",
+      "Sutskever, Ilya",
+      "Amodei, Dario"
+    ],
+    "year": 2020,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2005.14165",
+    "origin": "survey",
+    "survey_sections": [
+      "4.4.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Establishes in-context adaptation through demonstrations without inference-time weight updates.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2005.14165",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Language Models are Few-Shot Learners"
+    },
+    "cross_stage_note": "Adaptation mechanism executed during inference or deployment."
+  },
+  {
+    "id": "rag",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Lewis, Patrick",
+      "Perez, Ethan",
+      "Piktus, Aleksandra",
+      "Petroni, Fabio",
+      "Karpukhin, Vladimir",
+      "Goyal, Naman",
+      "Küttler, Heinrich",
+      "Lewis, Mike",
+      "Yih, Wen-tau",
+      "Rocktäschel, Tim",
+      "Riedel, Sebastian",
+      "Kiela, Douwe"
+    ],
+    "year": 2020,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2005.11401",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Separates parametric knowledge from a retrievable corpus, enabling evidence updates without full retraining.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2005.11401",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks"
+    },
+    "cross_stage_note": "Adaptation mechanism executed during inference or deployment."
+  },
+  {
+    "id": "promptformat",
+    "title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I Learned to Start Worrying about Prompt Formatting",
+    "authors": [
+      "Sclar, Melanie",
+      "Choi, Yejin",
+      "Tsvetkov, Yulia",
+      "Suhr, Alane"
+    ],
+    "year": 2024,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2310.11324",
+    "origin": "survey",
+    "survey_sections": [
+      "1.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Shows why semantically similar prompt formats must be included in interaction robustness evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2310.11324",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting"
+    }
+  },
+  {
+    "id": "pointprompt",
+    "title": "PointPrompt: A Multi-modal Prompting Dataset for Segment Anything Model",
+    "authors": [
+      "Quesada, Jorge",
+      "Alotaibi, Mohammad",
+      "Prabhushankar, Mohit",
+      "Alregib, Ghassan"
+    ],
+    "year": 2024,
+    "venue": "CVPR Workshops",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024W/PV/html/Quesada_PointPrompt_A_Multi-modal_Prompting_Dataset_for_Segment_Anything_Model_CVPRW_2024_paper.html",
+    "origin": "survey",
+    "survey_sections": [
+      "1.2",
+      "4.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Supplies human visual prompts across image domains for studying interaction and prompt variability.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://openaccess.thecvf.com/content/CVPR2024W/PV/html/Quesada_PointPrompt_A_Multi-modal_Prompting_Dataset_for_Segment_Anything_Model_CVPRW_2024_paper.html",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "PointPrompt: A Multi-modal Prompting Dataset for Segment Anything Model"
+    }
+  },
+  {
+    "id": "promptbenchmark",
+    "title": "Benchmarking Human and Automated Prompting in the Segment Anything Model",
+    "authors": [
+      "Quesada, Jorge",
+      "Fowler, Zoe",
+      "Alotaibi, Mohammad",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2024,
+    "venue": "IEEE BigData",
+    "url": "https://arxiv.org/abs/2410.22048",
+    "origin": "survey",
+    "survey_sections": [
+      "4.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Compares human and automated visual prompting and evaluates the effect of fine-tuning.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2410.22048",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Benchmarking Human and Automated Prompting in the Segment Anything Model"
+    },
+    "code_url": "https://github.com/olivesgatech/PointPrompt",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/PointPrompt",
+      "page_title": "GitHub - olivesgatech/PointPrompt: [IEEE BigData&#39;24] Code used in Paper &quot;Benchmarking Human and Automated Prompting in the Segment Anything Model&quot; · GitHub"
+    }
+  },
+  {
+    "id": "faultbenchmark",
+    "title": "A Large-scale Benchmark on Geological Fault Delineation Models: Domain Shift, Training Dynamics, Generalizability, Evaluation and Inferential Behavior",
+    "authors": [
+      "Quesada, Jorge",
+      "Zhou, Chen",
+      "Chowdhury, Prithwijit",
+      "Alotaibi, Mohammad",
+      "Mustafa, Ahmad",
+      "Kumakov, Yusufjon",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2505.08585",
+    "origin": "survey",
+    "survey_sections": [
+      "4.7"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Tests how architecture, preprocessing and survey shift affect seismic fault delineation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2505.08585",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "A Large-scale Benchmark on Geological Fault Delineation Models: Domain Shift, Training Dynamics, Generalizability, Evaluation and Inferential Behavior"
+    }
+  },
+  {
+    "id": "baldsam",
+    "title": "BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation",
+    "authors": [
+      "Chowdhury, Prithwijit",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2603.10828",
+    "origin": "survey",
+    "survey_sections": [
+      "1.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "adaptation",
+    "annotation": "Connects model disagreement with the choice of the next human interaction in segmentation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2603.10828",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation"
+    }
+  },
+  {
+    "id": "rlpreferences",
+    "title": "Deep Reinforcement Learning from Human Preferences",
+    "authors": [
+      "Christiano, Paul",
+      "Leike, Jan",
+      "Brown, Tom B.",
+      "Martic, Miljan",
+      "Legg, Shane",
+      "Amodei, Dario"
+    ],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1706.03741",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "A seminal preference-learning foundation for later reward-model and policy-optimization pipelines.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1706.03741",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Deep reinforcement learning from human preferences"
+    }
+  },
+  {
+    "id": "ziegler",
+    "title": "Fine-Tuning Language Models from Human Preferences",
+    "authors": [
+      "Ziegler, Daniel M.",
+      "Stiennon, Nisan",
+      "Wu, Jeffrey",
+      "Brown, Tom B.",
+      "Radford, Alec",
+      "Amodei, Dario",
+      "Christiano, Paul",
+      "Irving, Geoffrey"
+    ],
+    "year": 2019,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/1909.08593",
+    "origin": "survey",
+    "survey_sections": [
+      "5.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "An early language-model application of preference-based reward learning and policy adaptation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1909.08593",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Fine-Tuning Language Models from Human Preferences"
+    }
+  },
+  {
+    "id": "instructgpt",
+    "title": "Training Language Models to Follow Instructions with Human Feedback",
+    "authors": [
+      "Ouyang, Long",
+      "Wu, Jeff",
+      "Jiang, Xu",
+      "Almeida, Diogo",
+      "Wainwright, Carroll L.",
+      "Mishkin, Pamela",
+      "Zhang, Chong",
+      "Agarwal, Sandhini",
+      "Slama, Katarina",
+      "Ray, Alex",
+      "Schulman, John",
+      "Hilton, Jacob",
+      "Kelton, Fraser",
+      "Miller, Luke",
+      "Simens, Maddie",
+      "Askell, Amanda",
+      "Welinder, Peter",
+      "Christiano, Paul",
+      "Leike, Jan",
+      "Lowe, Ryan"
+    ],
+    "year": 2022,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "Makes supervised instruction tuning, reward modeling and RLHF distinct post-training steps.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2203.02155",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Training language models to follow instructions with human feedback"
+    }
+  },
+  {
+    "id": "dpo",
+    "title": "Direct Preference Optimization: Your Language Model Is Secretly a Reward Model",
+    "authors": [
+      "Rafailov, Rafael",
+      "Sharma, Archit",
+      "Mitchell, Eric",
+      "Ermon, Stefano",
+      "Manning, Christopher D.",
+      "Finn, Chelsea"
+    ],
+    "year": 2023,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "origin": "survey",
+    "survey_sections": [
+      "5.2.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "Optimizes preferences without a separately trained reward model or reinforcement-learning loop.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2305.18290",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
+    }
+  },
+  {
+    "id": "constitutional",
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "authors": [
+      "Bai, Yuntao",
+      "Kadavath, Saurav",
+      "Kundu, Sandipan",
+      "Askell, Amanda",
+      "Kernion, Jackson",
+      "Jones, Andy",
+      "Chen, Anna",
+      "Goldie, Anna",
+      "Mirhoseini, Azalia",
+      "McKinnon, Cameron",
+      "Chen, Carol",
+      "Olsson, Catherine",
+      "Olah, Christopher",
+      "Hernandez, Danny",
+      "Drain, Dawn",
+      "Ganguli, Deep",
+      "Li, Dustin",
+      "Tran-Johnson, Eli",
+      "Perez, Ethan",
+      "Kerr, Jamie",
+      "Mueller, Jared",
+      "Ladish, Jeffrey",
+      "Landau, Joshua",
+      "Ndousse, Kamal",
+      "Lukosuite, Kamile",
+      "Lovitt, Liane",
+      "Sellitto, Michael",
+      "Elhage, Nelson",
+      "Schiefer, Nicholas",
+      "Mercado, Noemi",
+      "DasSarma, Nova",
+      "Lasenby, Robert",
+      "Larson, Robin",
+      "Ringer, Sam",
+      "Johnston, Scott",
+      "Kravec, Shauna",
+      "Showk, Sheer El",
+      "Fort, Stanislav",
+      "Lanham, Tamera",
+      "Telleen-Lawton, Timothy",
+      "Conerly, Tom",
+      "Henighan, Tom",
+      "Hume, Tristan",
+      "Bowman, Samuel R.",
+      "Hatfield-Dodds, Zac",
+      "Mann, Ben",
+      "Amodei, Dario",
+      "Joseph, Nicholas",
+      "McCandlish, Sam",
+      "Brown, Tom",
+      "Kaplan, Jared"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2212.08073",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "Uses explicit principles and AI feedback to guide behavior after pretraining.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2212.08073",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Constitutional AI: Harmlessness from AI Feedback"
+    }
+  },
+  {
+    "id": "representationalalignment",
+    "title": "Getting Aligned on Representational Alignment",
+    "authors": [
+      "Sucholutsky, Ilia",
+      "Muttenthaler, Lukas",
+      "Weller, Adrian",
+      "Peng, Andi",
+      "Bobu, Andreea",
+      "Kim, Been",
+      "Love, Bradley C.",
+      "Cueva, Christopher J.",
+      "Grant, Erin",
+      "Groen, Iris",
+      "Achterberg, Jascha",
+      "Tenenbaum, Joshua B.",
+      "Collins, Katherine M.",
+      "Hermann, Katherine L.",
+      "Oktar, Kerem",
+      "Greff, Klaus",
+      "Hebart, Martin N.",
+      "Cloos, Nathan",
+      "Kriegeskorte, Nikolaus",
+      "Jacoby, Nori",
+      "Zhang, Qiuyi",
+      "Marjieh, Raja",
+      "Geirhos, Robert",
+      "Chen, Sherol",
+      "Kornblith, Simon",
+      "Rane, Sunayana",
+      "Konkle, Talia",
+      "O'Connell, Thomas P.",
+      "Unterthiner, Thomas",
+      "Lampinen, Andrew K.",
+      "Müller, Klaus-Robert",
+      "Toneva, Mariya",
+      "Griffiths, Thomas L."
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2310.13018",
+    "origin": "survey",
+    "survey_sections": [
+      "5.1"
+    ],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "Distinguishes similarity of internal representations from agreement in downstream behavior.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2310.13018",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Getting aligned on representational alignment"
+    }
+  },
+  {
+    "id": "humanalignment",
+    "title": "Aligning Machine and Human Visual Representations across Abstraction Levels",
+    "authors": [
+      "Muttenthaler, Lukas",
+      "Greff, Klaus",
+      "Born, Frieda",
+      "Spitzer, Bernhard",
+      "Kornblith, Simon",
+      "Mozer, Michael C.",
+      "Müller, Klaus-Robert",
+      "Unterthiner, Thomas",
+      "Lampinen, Andrew K."
+    ],
+    "year": 2025,
+    "venue": "Nature",
+    "url": "https://arxiv.org/abs/2409.06509",
+    "origin": "survey",
+    "survey_sections": [
+      "5.1"
+    ],
+    "stage": "A posteriori",
+    "topic": "alignment",
+    "annotation": "Aligns visual representations with human similarity judgments across multiple abstraction levels.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2409.06509",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Aligning Machine and Human Visual Representations across Abstraction Levels"
+    }
+  },
+  {
+    "id": "rome",
+    "title": "Locating and Editing Factual Associations in GPT",
+    "authors": [
+      "Meng, Kevin",
+      "Bau, David",
+      "Andonian, Alex",
+      "Belinkov, Yonatan"
+    ],
+    "year": 2022,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2202.05262",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Studies localized factual updates and the need to evaluate generalization and collateral changes.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2202.05262",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Locating and Editing Factual Associations in GPT"
+    }
+  },
+  {
+    "id": "memit",
+    "title": "Mass-Editing Memory in a Transformer",
+    "authors": [
+      "Meng, Kevin",
+      "Sharma, Arnab Sen",
+      "Andonian, Alex",
+      "Belinkov, Yonatan",
+      "Bau, David"
+    ],
+    "year": 2023,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2210.07229",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Extends factual model editing to many updates, making interference and preservation central concerns.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2210.07229",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Mass-Editing Memory in a Transformer"
+    }
+  },
+  {
+    "id": "mend",
+    "title": "Fast Model Editing at Scale",
+    "authors": [
+      "Mitchell, Eric",
+      "Lin, Charles",
+      "Bosselut, Antoine",
+      "Finn, Chelsea",
+      "Manning, Christopher D."
+    ],
+    "year": 2022,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2110.11309",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Learns transformations of fine-tuning gradients to produce efficient targeted edits.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2110.11309",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Fast Model Editing at Scale"
+    }
+  },
+  {
+    "id": "serac",
+    "title": "Memory-Based Model Editing at Scale",
+    "authors": [
+      "Mitchell, Eric",
+      "Lin, Charles",
+      "Bosselut, Antoine",
+      "Manning, Christopher D.",
+      "Finn, Chelsea"
+    ],
+    "year": 2022,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2206.06520",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Uses an external memory and scope decisions to separate edit behavior from preserved predictions.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2206.06520",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Memory-Based Model Editing at Scale"
+    }
+  },
+  {
+    "id": "repe",
+    "title": "Representation Engineering: A Top-Down Approach to AI Transparency",
+    "authors": [
+      "Zou, Andy",
+      "Phan, Long",
+      "Chen, Sarah",
+      "Campbell, James",
+      "Guo, Phillip",
+      "Ren, Richard",
+      "Pan, Alexander",
+      "Yin, Xuwang",
+      "Mazeika, Mantas",
+      "Dombrowski, Ann-Kathrin",
+      "Goel, Shashwat",
+      "Li, Nathaniel",
+      "Byun, Michael J.",
+      "Wang, Zifan",
+      "Mallen, Alex",
+      "Basart, Steven",
+      "Koyejo, Sanmi",
+      "Song, Dawn",
+      "Fredrikson, Matt",
+      "Kolter, J. Zico",
+      "Hendrycks, Dan"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2310.01405",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Treats high-level representation directions as interfaces for monitoring and intervention.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2310.01405",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Representation Engineering: A Top-Down Approach to AI Transparency"
+    },
+    "code_url": "https://github.com/andyzoujm/representation-engineering",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/andyzoujm/representation-engineering",
+      "page_title": "GitHub - andyzoujm/representation-engineering: Representation Engineering: A Top-Down Approach to AI Transparency · GitHub"
+    }
+  },
+  {
+    "id": "reft",
+    "title": "ReFT: Representation Finetuning for Language Models",
+    "authors": [
+      "Wu, Zhengxuan",
+      "Arora, Aryaman",
+      "Wang, Zheng",
+      "Geiger, Atticus",
+      "Jurafsky, Dan",
+      "Manning, Christopher D.",
+      "Potts, Christopher"
+    ],
+    "year": 2024,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2404.03592",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4",
+      "5.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Learns interventions on hidden representations while keeping base-model weights frozen.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2404.03592",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "ReFT: Representation Finetuning for Language Models"
+    },
+    "code_url": "https://github.com/stanfordnlp/pyreft",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/stanfordnlp/pyreft",
+      "page_title": "GitHub - stanfordnlp/pyreft: Stanford NLP Python library for Representation Finetuning (ReFT) · GitHub"
+    }
+  },
+  {
+    "id": "caa",
+    "title": "Steering Llama 2 via Contrastive Activation Addition",
+    "authors": [
+      "Panickssery, Nina",
+      "Gabrieli, Nick",
+      "Schulz, Julian",
+      "Tong, Meg",
+      "Hubinger, Evan",
+      "Turner, Alexander Matt"
+    ],
+    "year": 2024,
+    "venue": "ACL",
+    "url": "https://arxiv.org/abs/2312.06681",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Applies behavior-specific activation directions at inference rather than permanently editing base weights.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2312.06681",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Steering Llama 2 via Contrastive Activation Addition"
+    }
+  },
+  {
+    "id": "rewritegan",
+    "title": "Rewriting a Deep Generative Model",
+    "authors": [
+      "Bau, David",
+      "Liu, Steven",
+      "Wang, Tongzhou",
+      "Zhu, Jun-Yan",
+      "Torralba, Antonio"
+    ],
+    "year": 2020,
+    "venue": "ECCV",
+    "url": "https://arxiv.org/abs/2007.15646",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "An early visual model-editing reference for changing a rule while preserving unrelated generation behavior.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2007.15646",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Rewriting a Deep Generative Model"
+    },
+    "code_url": "https://github.com/davidbau/rewriting",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/davidbau/rewriting",
+      "page_title": "GitHub - davidbau/rewriting: Rewriting a Deep Generative Model, ECCV 2020 (oral).  Interactive tool to directly edit the rules of a GAN to synthesize scenes with objects added, removed, or altered.  Change StyleGANv2 to make extravagant eyebrows, or horses wearing hats. · GitHub"
+    }
+  },
+  {
+    "id": "prompt2prompt",
+    "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+    "authors": [
+      "Hertz, Amir",
+      "Mokady, Ron",
+      "Tenenbaum, Jay",
+      "Aberman, Kfir",
+      "Pritch, Yael",
+      "Cohen-Or, Daniel"
+    ],
+    "year": 2023,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/2208.01626",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Controls image edits through attention maps; distinguish output editing from durable knowledge editing.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2208.01626",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Prompt-to-Prompt Image Editing with Cross Attention Control"
+    }
+  },
+  {
+    "id": "esd",
+    "title": "Erasing Concepts from Diffusion Models",
+    "authors": [
+      "Gandikota, Rohit",
+      "Materzynska, Joanna",
+      "Fiotto-Kaufman, Jaden",
+      "Bau, David"
+    ],
+    "year": 2023,
+    "venue": "ICCV",
+    "url": "https://arxiv.org/abs/2303.07345",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Updates a diffusion model to suppress selected concepts; suppression alone is not certified data removal.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2303.07345",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Erasing Concepts from Diffusion Models"
+    }
+  },
+  {
+    "id": "uce",
+    "title": "Unified Concept Editing in Diffusion Models",
+    "authors": [
+      "Gandikota, Rohit",
+      "Orgad, Hadas",
+      "Belinkov, Yonatan",
+      "Materzyńska, Joanna",
+      "Bau, David"
+    ],
+    "year": 2024,
+    "venue": "WACV",
+    "url": "https://arxiv.org/abs/2308.14761",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4.2"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Studies multiple concept edits and preservation of unrelated generative behavior.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2308.14761",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Unified Concept Editing in Diffusion Models"
+    }
+  },
+  {
+    "id": "vitedit",
+    "title": "Learning Where to Edit Vision Transformers",
+    "authors": [
+      "Yang, Yunqiao",
+      "Huang, Long-Kai",
+      "Chen, Shengzhuang",
+      "Ma, Kede",
+      "Wei, Ying"
+    ],
+    "year": 2024,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2411.01948",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4.2",
+      "5.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Localizes parameters for correcting visual prediction failures while controlling edit locality.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2411.01948",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Learning Where to Edit Vision Transformers"
+    },
+    "code_url": "https://github.com/hustyyq/Where-to-Edit",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/hustyyq/Where-to-Edit",
+      "page_title": "GitHub - hustyyq/Where-to-Edit · GitHub"
+    }
+  },
+  {
+    "id": "objectdrop",
+    "title": "ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion",
+    "authors": [
+      "Winter, Daniel",
+      "Cohen, Matan",
+      "Fruchter, Shlomi",
+      "Pritch, Yael",
+      "Rav-Acha, Alex",
+      "Hoshen, Yedid"
+    ],
+    "year": 2024,
+    "venue": "ECCV",
+    "url": "https://arxiv.org/abs/2403.18818",
+    "origin": "survey",
+    "survey_sections": [
+      "5.4.2",
+      "5.5"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Treats object removal as a counterfactual scene change that includes shadows and other effects.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2403.18818",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion"
+    }
+  },
+  {
+    "id": "void",
+    "title": "VOID: Video Object and Interaction Deletion",
+    "authors": [
+      "Motamed, Saman",
+      "Harvey, William",
+      "Klein, Benjamin",
+      "Van Gool, Luc",
+      "Yuan, Zhuoning",
+      "Cheng, Ta-Ying"
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2604.02296",
+    "origin": "survey",
+    "survey_sections": [
+      "5.5.4"
+    ],
+    "stage": "A posteriori",
+    "topic": "editing",
+    "annotation": "Extends visual editing to objects and their downstream interactions, requiring temporal and physical consistency.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2604.02296",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "VOID: Video Object and Interaction Deletion"
+    },
+    "code_url": "https://github.com/Netflix/void-model",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/Netflix/void-model",
+      "page_title": "GitHub - Netflix/void-model · GitHub"
+    }
+  },
+  {
+    "id": "msp",
+    "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+    "authors": [
+      "Hendrycks, Dan",
+      "Gimpel, Kevin"
+    ],
+    "year": 2017,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1610.02136",
+    "origin": "survey",
+    "survey_sections": [
+      "6.2"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Provides maximum-softmax probability as a simple baseline, not a guarantee of calibrated confidence.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1610.02136",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks"
+    }
+  },
+  {
+    "id": "odin",
+    "title": "Enhancing the Reliability of Out-of-distribution Image Detection in Neural Networks",
+    "authors": [
+      "Liang, Shiyu",
+      "Li, Yixuan",
+      "Srikant, R."
+    ],
+    "year": 2018,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1706.02690",
+    "origin": "survey",
+    "survey_sections": [
+      "6.3"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Combines temperature scaling and input preprocessing for OOD scoring under a defined protocol.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1706.02690",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks"
+    }
+  },
+  {
+    "id": "mahalanobis",
+    "title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks",
+    "authors": [
+      "Lee, Kimin",
+      "Lee, Kibok",
+      "Lee, Honglak",
+      "Shin, Jinwoo"
+    ],
+    "year": 2018,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1807.03888",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Uses class-conditional feature distances as an activation-based complement to gradient diagnostics.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1807.03888",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks"
+    }
+  },
+  {
+    "id": "energy",
+    "title": "Energy-based Out-of-distribution Detection",
+    "authors": [
+      "Liu, Weitang",
+      "Wang, Xiaoyun",
+      "Owens, John D.",
+      "Li, Yixuan"
+    ],
+    "year": 2020,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2010.03759",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "A logit-based OOD scoring baseline that can also be incorporated into training.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2010.03759",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Energy-based Out-of-distribution Detection"
+    }
+  },
+  {
+    "id": "gradnorm",
+    "title": "On the Importance of Gradients for Detecting Distributional Shifts in the Wild",
+    "authors": [
+      "Huang, Rui",
+      "Geng, Andrew",
+      "Li, Yixuan"
+    ],
+    "year": 2021,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2110.00218",
+    "origin": "survey",
+    "survey_sections": [
+      "6.3",
+      "7.7"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Uses gradient norms as signals for distribution shift without equating all gradient scores with uncertainty.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2110.00218",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "On the Importance of Gradients for Detecting Distributional Shifts in the Wild"
+    }
+  },
+  {
+    "id": "gradpurview",
+    "title": "Probing the Purview of Neural Networks via Gradient Analysis",
+    "authors": [
+      "Lee, Jinsol",
+      "Lehman, Charlie",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2023,
+    "venue": "IEEE Access",
+    "url": "https://arxiv.org/abs/2304.02834",
+    "origin": "survey",
+    "survey_sections": [
+      "6.1",
+      "7.7"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Probes the gap between learned and available capacity using confounding-label gradients.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2304.02834",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Probing the Purview of Neural Networks via Gradient Analysis"
+    }
+  },
+  {
+    "id": "gradtrust",
+    "title": "Counterfactual Gradients-based Quantification of Prediction Trust in Neural Networks",
+    "authors": [
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2024,
+    "venue": "IEEE MIPR",
+    "url": "https://arxiv.org/abs/2405.13758",
+    "origin": "survey",
+    "survey_sections": [
+      "6.3.4"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Uses counterfactual gradient statistics to rank prediction trust for misprediction detection.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2405.13758",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Counterfactual Gradients-based Quantification of Prediction Trust in Neural Networks"
+    },
+    "code_url": "https://github.com/olivesgatech/GradTrust",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/GradTrust",
+      "page_title": "GitHub - olivesgatech/GradTrust: [MIPR 2024 Invited] Code for the paper: Counterfactual Gradients-based Quantification of Prediction Trust in Neural Networks · GitHub"
+    }
+  },
+  {
+    "id": "gradadversarial",
+    "title": "Gradient-Based Adversarial and Out-of-Distribution Detection",
+    "authors": [
+      "Lee, Jinsol",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2022,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2206.08255",
+    "origin": "survey",
+    "survey_sections": [
+      "6.1",
+      "7.7"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Compares gradient-based diagnostics for adversarial and shifted inputs.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2206.08255",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Gradient-Based Adversarial and Out-of-Distribution Detection"
+    }
+  },
+  {
+    "id": "gradanomaly",
+    "title": "Backpropagated Gradient Representations for Anomaly Detection",
+    "authors": [
+      "Kwon, Gukyeong",
+      "Prabhushankar, Mohit",
+      "Temel, Dogancan",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2020,
+    "venue": "ECCV",
+    "url": "https://arxiv.org/abs/2007.09507",
+    "origin": "survey",
+    "survey_sections": [
+      "6.1",
+      "7.7"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Adds model-change information to reconstruction-based anomaly detection.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2007.09507",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Backpropagated Gradient Representations for Anomaly Detection"
+    }
+  },
+  {
+    "id": "gradnovelty",
+    "title": "Novelty Detection through Model-Based Characterization of Neural Networks",
+    "authors": [
+      "Kwon, Gukyeong",
+      "Prabhushankar, Mohit",
+      "Temel, Dogancan",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2020,
+    "venue": "IEEE ICIP",
+    "url": "https://arxiv.org/abs/2008.06094",
+    "origin": "survey",
+    "survey_sections": [
+      "7.7"
+    ],
+    "stage": "Post hoc",
+    "topic": "detection",
+    "annotation": "Uses gradients to characterize novel inputs from the model's perspective.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2008.06094",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Novelty Detection Through Model-Based Characterization of Neural Networks"
+    }
+  },
+  {
+    "id": "redteamllm",
+    "title": "Red Teaming Language Models with Language Models",
+    "authors": [
+      "Perez, Ethan",
+      "Huang, Saffron",
+      "Song, Francis",
+      "Cai, Trevor",
+      "Ring, Roman",
+      "Aslanides, John",
+      "Glaese, Amelia",
+      "McAleese, Nat",
+      "Irving, Geoffrey"
+    ],
+    "year": 2022,
+    "venue": "EMNLP",
+    "url": "https://arxiv.org/abs/2202.03286",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Uses model-generated test cases to discover failures and guide subsequent mitigation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2202.03286",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Red Teaming Language Models with Language Models"
+    }
+  },
+  {
+    "id": "gcg",
+    "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+    "authors": [
+      "Zou, Andy",
+      "Wang, Zifan",
+      "Carlini, Nicholas",
+      "Nasr, Milad",
+      "Kolter, J. Zico",
+      "Fredrikson, Matt"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2307.15043",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Shows that preference alignment must be evaluated against adaptive and transferable attacks.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2307.15043",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Universal and Transferable Adversarial Attacks on Aligned Language Models"
+    }
+  },
+  {
+    "id": "harmbench",
+    "title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal",
+    "authors": [
+      "Mazeika, Mantas",
+      "Phan, Long",
+      "Yin, Xuwang",
+      "Zou, Andy",
+      "Wang, Zifan",
+      "Mu, Norman",
+      "Sakhaee, Elham",
+      "Li, Nathaniel",
+      "Basart, Steven",
+      "Li, Bo",
+      "Forsyth, David",
+      "Hendrycks, Dan"
+    ],
+    "year": 2024,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2402.04249",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Standardizes harmful-behavior evaluation, attack comparison and robust-refusal assessment.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2402.04249",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal"
+    },
+    "code_url": "https://github.com/centerforaisafety/HarmBench",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/centerforaisafety/HarmBench",
+      "page_title": "GitHub - centerforaisafety/HarmBench: HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal · GitHub"
+    }
+  },
+  {
+    "id": "jailbreakbench",
+    "title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models",
+    "authors": [
+      "Chao, Patrick",
+      "Debenedetti, Edoardo",
+      "Robey, Alexander",
+      "Andriushchenko, Maksym",
+      "Croce, Francesco",
+      "Sehwag, Vikash",
+      "Dobriban, Edgar",
+      "Flammarion, Nicolas",
+      "Pappas, George J.",
+      "Tramer, Florian",
+      "Hassani, Hamed",
+      "Wong, Eric"
+    ],
+    "year": 2024,
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "url": "https://arxiv.org/abs/2404.01318",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Specifies reproducible jailbreak evaluation artifacts and protocols.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2404.01318",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models"
+    },
+    "code_url": "https://github.com/JailbreakBench/jailbreakbench",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/JailbreakBench/jailbreakbench",
+      "page_title": "GitHub - JailbreakBench/jailbreakbench: JailbreakBench: An Open Robustness Benchmark for Jailbreaking Language Models [NeurIPS 2024 Datasets and Benchmarks Track] · GitHub"
+    }
+  },
+  {
+    "id": "llamaguard",
+    "title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations",
+    "authors": [
+      "Inan, Hakan",
+      "Upasani, Kartikeya",
+      "Chi, Jianfeng",
+      "Rungta, Rashi",
+      "Iyer, Krithika",
+      "Mao, Yuning",
+      "Tontchev, Michael",
+      "Hu, Qing",
+      "Fuller, Brian",
+      "Testuggine, Davide",
+      "Khabsa, Madian"
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2312.06674",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "A configurable input-output classification component for runtime screening.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2312.06674",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations"
+    }
+  },
+  {
+    "id": "smoothllm",
+    "title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks",
+    "authors": [
+      "Robey, Alexander",
+      "Wong, Eric",
+      "Hassani, Hamed",
+      "Pappas, George J."
+    ],
+    "year": 2023,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2310.03684",
+    "origin": "survey",
+    "survey_sections": [
+      "6.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Studies prompt perturbation and aggregation as a defense within a specified attack setting.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2310.03684",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks"
+    },
+    "code_url": "https://github.com/arobey1/smooth-llm",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/arobey1/smooth-llm",
+      "page_title": "GitHub - arobey1/smooth-llm · GitHub"
+    }
+  },
+  {
+    "id": "indirectinjection",
+    "title": "Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+    "authors": [
+      "Greshake, Kai",
+      "Abdelnabi, Sahar",
+      "Mishra, Shailesh",
+      "Endres, Christoph",
+      "Holz, Thorsten",
+      "Fritz, Mario"
+    ],
+    "year": 2023,
+    "venue": "AISec",
+    "url": "https://arxiv.org/abs/2302.12173",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Moves the threat model from direct prompts to untrusted content entering an integrated application.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2302.12173",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection"
+    }
+  },
+  {
+    "id": "xstest",
+    "title": "XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models",
+    "authors": [
+      "Röttger, Paul",
+      "Kirk, Hannah Rose",
+      "Vidgen, Bertie",
+      "Attanasio, Giuseppe",
+      "Bianchi, Federico",
+      "Hovy, Dirk"
+    ],
+    "year": 2024,
+    "venue": "NAACL",
+    "url": "https://arxiv.org/abs/2308.01263",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Measures over-refusal on benign requests so safety evaluation includes utility preservation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2308.01263",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models"
+    }
+  },
+  {
+    "id": "autoattack",
+    "title": "Reliable Evaluation of Adversarial Robustness with an Ensemble of Diverse Parameter-free Attacks",
+    "authors": [
+      "Croce, Francesco",
+      "Hein, Matthias"
+    ],
+    "year": 2020,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2003.01690",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "redteaming",
+    "annotation": "Strengthens vision evaluation with standardized attack ensembles and explicit perturbation budgets.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2003.01690",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks"
+    },
+    "code_url": "https://github.com/fra31/auto-attack",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/fra31/auto-attack",
+      "page_title": "GitHub - fra31/auto-attack: Code relative to &quot;Reliable  evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks&quot; · GitHub"
+    }
+  },
+  {
+    "id": "gradcam",
+    "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization",
+    "authors": [
+      "Selvaraju, Ramprasaath R.",
+      "Cogswell, Michael",
+      "Das, Abhishek",
+      "Vedantam, Ramakrishna",
+      "Parikh, Devi",
+      "Batra, Dhruv"
+    ],
+    "year": 2017,
+    "venue": "ICCV",
+    "url": "https://arxiv.org/abs/1610.02391",
+    "origin": "survey",
+    "survey_sections": [
+      "7.1",
+      "7.2"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Localizes class-relevant visual evidence using gradients and activations.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1610.02391",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
+    },
+    "code_url": "https://github.com/ramprs/grad-cam",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/ramprs/grad-cam",
+      "page_title": "GitHub - ramprs/grad-cam: [ICCV 2017] Torch code for Grad-CAM · GitHub"
+    }
+  },
+  {
+    "id": "integratedgradients",
+    "title": "Axiomatic Attribution for Deep Networks",
+    "authors": [
+      "Sundararajan, Mukund",
+      "Taly, Ankur",
+      "Yan, Qiqi"
+    ],
+    "year": 2017,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/1703.01365",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Provides attribution axioms and path-integrated gradients as a complementary explanation baseline.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1703.01365",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Axiomatic Attribution for Deep Networks"
+    }
+  },
+  {
+    "id": "lime",
+    "title": "\"Why Should I Trust You?\": Explaining the Predictions of Any Classifier",
+    "authors": [
+      "Ribeiro, Marco Tulio",
+      "Singh, Sameer",
+      "Guestrin, Carlos"
+    ],
+    "year": 2016,
+    "venue": "KDD",
+    "url": "https://arxiv.org/abs/1602.04938",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Explains local behavior through an interpretable surrogate and model queries.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1602.04938",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "\"Why Should I Trust You?\": Explaining the Predictions of Any Classifier"
+    }
+  },
+  {
+    "id": "sanitychecks",
+    "title": "Sanity Checks for Saliency Maps",
+    "authors": [
+      "Adebayo, Julius",
+      "Gilmer, Justin",
+      "Muelly, Michael",
+      "Goodfellow, Ian",
+      "Hardt, Moritz",
+      "Kim, Been"
+    ],
+    "year": 2018,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1810.03292",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Tests whether visual explanations depend on learned parameters and labels rather than visual plausibility alone.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1810.03292",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Sanity Checks for Saliency Maps"
+    }
+  },
+  {
+    "id": "explanatoryparadigms",
+    "title": "Explanatory Paradigms in Neural Networks",
+    "authors": [
+      "AlRegib, Ghassan",
+      "Prabhushankar, Mohit"
+    ],
+    "year": 2022,
+    "venue": "IEEE Signal Processing Magazine",
+    "url": "https://arxiv.org/abs/2202.11838",
+    "origin": "survey",
+    "survey_sections": [
+      "7.1",
+      "7.2"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Organizes observed correlation, counterfactual and contrastive explanations by the questions they answer.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2202.11838",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Explanatory Paradigms in Neural Networks"
+    },
+    "code_url": "https://github.com/olivesgatech/Explanatory-Paradigms",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/Explanatory-Paradigms",
+      "page_title": "GitHub - olivesgatech/Explanatory-Paradigms: Code used in the paper `Explanatory Paradigms in Neural Networks&#39;, published in the Signal Processing Magazine · GitHub"
+    }
+  },
+  {
+    "id": "contrastiveexplanations",
+    "title": "Contrastive Explanations in Neural Networks",
+    "authors": [
+      "Prabhushankar, Mohit",
+      "Kwon, Gukyeong",
+      "Temel, Dogancan",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2020,
+    "venue": "IEEE ICIP",
+    "url": "https://arxiv.org/abs/2008.00178",
+    "origin": "survey",
+    "survey_sections": [
+      "7.2.3"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Asks why one class is selected rather than another and makes the comparison explicit.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2008.00178",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Contrastive Explanations in Neural Networks"
+    }
+  },
+  {
+    "id": "introspective",
+    "title": "Introspective Learning: A Two-Stage Approach for Inference in Neural Networks",
+    "authors": [
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2022,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/2209.08425",
+    "origin": "survey",
+    "survey_sections": [
+      "7.3"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Feeds contrastive gradient features into a trained second-stage predictor to revisit a first-stage decision.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2209.08425",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Introspective Learning : A Two-Stage Approach for Inference in Neural Networks"
+    },
+    "code_url": "https://github.com/olivesgatech/Introspective-Learning",
+    "cross_stage_note": "Inference-time measurement relies on auxiliary learning or suitable model training.",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/Introspective-Learning",
+      "page_title": "GitHub - olivesgatech/Introspective-Learning: This repository consists the code for the paper titled Introspective Learning : A Two-Stage Approach for Inference in Neural Networks · GitHub"
+    }
+  },
+  {
+    "id": "circuits",
+    "title": "A Mathematical Framework for Transformer Circuits",
+    "authors": [
+      "Nelson Elhage",
+      "Neel Nanda",
+      "others"
+    ],
+    "year": 2021,
+    "venue": "Transformer Circuits",
+    "url": "https://transformer-circuits.pub/2021/framework/index.html",
+    "origin": "survey",
+    "survey_sections": [
+      "8.1.1"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Introduces a mechanistic account of transformer computations and circuit-level analysis.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "http_status": 200,
+      "method": "primary-source page/report review",
+      "source_title": "A Mathematical Framework for Transformer Circuits"
+    }
+  },
+  {
+    "id": "superposition",
+    "title": "Toy Models of Superposition",
+    "authors": [
+      "Elhage, Nelson",
+      "Hume, Tristan",
+      "Olsson, Catherine",
+      "Schiefer, Nicholas",
+      "Henighan, Tom",
+      "Kravec, Shauna",
+      "Hatfield-Dodds, Zac",
+      "Lasenby, Robert",
+      "Drain, Dawn",
+      "Chen, Carol",
+      "Grosse, Roger",
+      "McCandlish, Sam",
+      "Kaplan, Jared",
+      "Amodei, Dario",
+      "Wattenberg, Martin",
+      "Olah, Christopher"
+    ],
+    "year": 2022,
+    "venue": "Transformer Circuits / arXiv",
+    "url": "https://arxiv.org/abs/2209.10652",
+    "origin": "survey",
+    "survey_sections": [
+      "8.1.1"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Models how more features can be represented than there are explicit activation dimensions.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2209.10652",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Toy Models of Superposition"
+    }
+  },
+  {
+    "id": "monosemanticity",
+    "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+    "authors": [
+      "Adly Templeton",
+      "Tom Conerly",
+      "others"
+    ],
+    "year": 2024,
+    "venue": "Transformer Circuits",
+    "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html",
+    "origin": "survey",
+    "survey_sections": [
+      "8.1.1"
+    ],
+    "stage": "Post hoc",
+    "topic": "transparency",
+    "annotation": "Uses sparse feature decompositions to study a large language model; feature interpretability is not a complete behavioral guarantee.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html",
+      "http_status": 200,
+      "method": "primary-source page/report review",
+      "source_title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"
+    }
+  },
+  {
+    "id": "calibration",
+    "title": "On Calibration of Modern Neural Networks",
+    "authors": [
+      "Guo, Chuan",
+      "Pleiss, Geoff",
+      "Sun, Yu",
+      "Weinberger, Kilian Q."
+    ],
+    "year": 2017,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/1706.04599",
+    "origin": "survey",
+    "survey_sections": [
+      "6.2",
+      "7.6"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Separates classification accuracy from probability calibration and studies temperature scaling.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1706.04599",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "On Calibration of Modern Neural Networks"
+    }
+  },
+  {
+    "id": "mcdropout",
+    "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+    "authors": [
+      "Gal, Yarin",
+      "Ghahramani, Zoubin"
+    ],
+    "year": 2016,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/1506.02142",
+    "origin": "survey",
+    "survey_sections": [
+      "7.6.3"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Uses stochastic dropout predictions as approximate uncertainty estimates in suitable model configurations.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1506.02142",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning"
+    }
+  },
+  {
+    "id": "deepensembles",
+    "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+    "authors": [
+      "Lakshminarayanan, Balaji",
+      "Pritzel, Alexander",
+      "Blundell, Charles"
+    ],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1612.01474",
+    "origin": "survey",
+    "survey_sections": [
+      "7.4"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Measures predictive diversity across separately trained models, with additional training and inference cost.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1612.01474",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles"
+    },
+    "cross_stage_note": "Inference-time measurement relies on auxiliary learning or suitable model training."
+  },
+  {
+    "id": "kendallgal",
+    "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+    "authors": [
+      "Kendall, Alex",
+      "Gal, Yarin"
+    ],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1703.04977",
+    "origin": "survey",
+    "survey_sections": [
+      "7.5"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Distinguishes data noise from uncertainty about model parameters in visual prediction.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1703.04977",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?"
+    }
+  },
+  {
+    "id": "conformal",
+    "title": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification",
+    "authors": [
+      "Angelopoulos, Anastasios N.",
+      "Bates, Stephen"
+    ],
+    "year": 2021,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2107.07511",
+    "origin": "survey",
+    "survey_sections": [
+      "7.4"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Turns calibrated scores into prediction sets with coverage guarantees under explicit assumptions.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2107.07511",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification"
+    },
+    "code_url": "https://github.com/aangelopoulos/conformal-prediction",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/aangelopoulos/conformal-prediction",
+      "page_title": "GitHub - aangelopoulos/conformal-prediction: Lightweight, useful implementation of conformal prediction on real data. · GitHub"
+    }
+  },
+  {
+    "id": "duq",
+    "title": "Uncertainty Estimation Using a Single Deep Deterministic Neural Network",
+    "authors": [
+      "van Amersfoort, Joost",
+      "Smith, Lewis",
+      "Teh, Yee Whye",
+      "Gal, Yarin"
+    ],
+    "year": 2020,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2003.02037",
+    "origin": "survey",
+    "survey_sections": [
+      "7.4.2"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "A representation-distance uncertainty approach that requires suitable training, despite single-pass inference.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2003.02037",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Uncertainty Estimation Using a Single Deep Deterministic Neural Network"
+    },
+    "cross_stage_note": "Inference-time measurement relies on auxiliary learning or suitable model training."
+  },
+  {
+    "id": "tulip",
+    "title": "Transitional Uncertainty with Layered Intermediate Predictions",
+    "authors": [
+      "Benkert, Ryan",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2024,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2405.17494",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1",
+      "7"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Uses intermediate predictors to retain uncertainty-relevant information discarded by final representations.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2405.17494",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Transitional Uncertainty with Layered Intermediate Predictions"
+    },
+    "cross_stage_note": "Inference-time measurement relies on auxiliary learning or suitable model training."
+  },
+  {
+    "id": "voice",
+    "title": "VOICE: Variance of Induced Contrastive Explanations to Quantify Uncertainty in Neural Network Interpretability",
+    "authors": [
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan"
+    ],
+    "year": 2024,
+    "venue": "IEEE JSTSP",
+    "url": "https://arxiv.org/abs/2406.00573",
+    "origin": "survey",
+    "survey_sections": [
+      "7.8"
+    ],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Quantifies explanatory uncertainty through induced contrastive explanations, complementing prediction uncertainty.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2406.00573",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "VOICE: Variance of Induced Contrastive Explanations to quantify Uncertainty in Neural Network Interpretability"
+    },
+    "code_url": "https://github.com/olivesgatech/VOICE-Uncertainty",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/VOICE-Uncertainty",
+      "page_title": "GitHub - olivesgatech/VOICE-Uncertainty: [J-STSP Special Issue] VOICE: Variance of Induced Contrastive Explanations to quantify Uncertainty in Neural Network Interpretability · GitHub"
+    }
+  },
+  {
+    "id": "semanticentropy",
+    "title": "Detecting Hallucinations in Large Language Models Using Semantic Entropy",
+    "authors": [
+      "Farquhar, Sebastian",
+      "Kossen, Jannik",
+      "Kuhn, Lorenz",
+      "Gal, Yarin"
+    ],
+    "year": 2024,
+    "venue": "Nature",
+    "url": "https://www.nature.com/articles/s41586-024-07421-0",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Post hoc",
+    "topic": "uncertainty",
+    "annotation": "Groups generated answers by meaning to detect one important source of unreliable language-model responses.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://www.nature.com/articles/s41586-024-07421-0",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Detecting hallucinations in large language models using semantic entropy"
+    },
+    "code_url": "https://github.com/jlko/semantic_uncertainty",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/jlko/semantic_uncertainty",
+      "page_title": "GitHub - jlko/semantic_uncertainty: Codebase for reproducing the experiments of the semantic uncertainty paper (short-phrase and sentence-length experiments). · GitHub"
+    }
+  },
+  {
+    "id": "imagenetc",
+    "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+    "authors": [
+      "Hendrycks, Dan",
+      "Dietterich, Thomas"
+    ],
+    "year": 2019,
+    "venue": "ICLR",
+    "url": "https://arxiv.org/abs/1903.12261",
+    "origin": "survey",
+    "survey_sections": [
+      "1.1",
+      "8.4"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "A corruption and perturbation suite for checking degradation across severity levels.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1903.12261",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations"
+    },
+    "code_url": "https://github.com/hendrycks/robustness",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/hendrycks/robustness",
+      "page_title": "GitHub - hendrycks/robustness: Corruption and Perturbation Robustness (ICLR 2019) · GitHub"
+    }
+  },
+  {
+    "id": "wilds",
+    "title": "WILDS: A Benchmark of In-the-Wild Distribution Shifts",
+    "authors": [
+      "Koh, Pang Wei",
+      "Sagawa, Shiori",
+      "Marklund, Henrik",
+      "Xie, Sang Michael",
+      "Zhang, Marvin",
+      "Balsubramani, Akshay",
+      "Hu, Weihua",
+      "Yasunaga, Michihiro",
+      "Phillips, Richard Lanas",
+      "Gao, Irena",
+      "Lee, Tony",
+      "David, Etienne",
+      "Stavness, Ian",
+      "Guo, Wei",
+      "Earnshaw, Berton A.",
+      "Haque, Imran S.",
+      "Beery, Sara",
+      "Leskovec, Jure",
+      "Kundaje, Anshul",
+      "Pierson, Emma",
+      "Levine, Sergey",
+      "Finn, Chelsea",
+      "Liang, Percy"
+    ],
+    "year": 2021,
+    "venue": "ICML",
+    "url": "https://arxiv.org/abs/2012.07421",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "Adds naturally occurring domain shifts that complement synthetic corruptions and norm-bounded attacks.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2012.07421",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "WILDS: A Benchmark of in-the-Wild Distribution Shifts"
+    },
+    "code_url": "https://github.com/p-lambda/wilds",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/p-lambda/wilds",
+      "page_title": "GitHub - p-lambda/wilds: A machine learning benchmark of in-the-wild distribution shifts, with data loaders, evaluators, and default models. · GitHub"
+    }
+  },
+  {
+    "id": "robustbench",
+    "title": "RobustBench: a Standardized Adversarial Robustness Benchmark",
+    "authors": [
+      "Croce, Francesco",
+      "Andriushchenko, Maksym",
+      "Sehwag, Vikash",
+      "Debenedetti, Edoardo",
+      "Flammarion, Nicolas",
+      "Chiang, Mung",
+      "Mittal, Prateek",
+      "Hein, Matthias"
+    ],
+    "year": 2021,
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "url": "https://arxiv.org/abs/2010.09670",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "Connects models and standardized threat-specific adversarial evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2010.09670",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "RobustBench: a standardized adversarial robustness benchmark"
+    },
+    "code_url": "https://github.com/RobustBench/robustbench",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/RobustBench/robustbench",
+      "page_title": "GitHub - RobustBench/robustbench: RobustBench: a standardized adversarial robustness benchmark [NeurIPS 2021 Benchmarks and Datasets Track] · GitHub"
+    }
+  },
+  {
+    "id": "helm",
+    "title": "Holistic Evaluation of Language Models",
+    "authors": [
+      "Liang, Percy",
+      "Bommasani, Rishi",
+      "Lee, Tony",
+      "Tsipras, Dimitris",
+      "Soylu, Dilara",
+      "Yasunaga, Michihiro",
+      "Zhang, Yian",
+      "Narayanan, Deepak",
+      "Wu, Yuhuai",
+      "Kumar, Ananya",
+      "Newman, Benjamin",
+      "Yuan, Binhang",
+      "Yan, Bobby",
+      "Zhang, Ce",
+      "Cosgrove, Christian",
+      "Manning, Christopher D.",
+      "Ré, Christopher",
+      "Acosta-Navas, Diana",
+      "Hudson, Drew A.",
+      "Zelikman, Eric",
+      "Durmus, Esin",
+      "Ladhak, Faisal",
+      "Rong, Frieda",
+      "Ren, Hongyu",
+      "Yao, Huaxiu",
+      "Wang, Jue",
+      "Santhanam, Keshav",
+      "Orr, Laurel",
+      "Zheng, Lucia",
+      "Yuksekgonul, Mert",
+      "Suzgun, Mirac",
+      "Kim, Nathan",
+      "Guha, Neel",
+      "Chatterji, Niladri",
+      "Khattab, Omar",
+      "Henderson, Peter",
+      "Huang, Qian",
+      "Chi, Ryan",
+      "Xie, Sang Michael",
+      "Santurkar, Shibani",
+      "Ganguli, Surya",
+      "Hashimoto, Tatsunori",
+      "Icard, Thomas",
+      "Zhang, Tianyi",
+      "Chaudhary, Vishrav",
+      "Wang, William",
+      "Li, Xuechen",
+      "Mai, Yifan",
+      "Zhang, Yuhui",
+      "Koreeda, Yuta"
+    ],
+    "year": 2023,
+    "venue": "TMLR",
+    "url": "https://arxiv.org/abs/2211.09110",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "Encourages multi-metric language-model evaluation instead of one aggregate capability score.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2211.09110",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Holistic Evaluation of Language Models"
+    },
+    "code_url": "https://github.com/stanford-crfm/helm",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/stanford-crfm/helm",
+      "page_title": "GitHub - stanford-crfm/helm: Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducible and transparent evaluation of foundation models, including large language models (LLMs) and multimodal models. · GitHub"
+    }
+  },
+  {
+    "id": "olives",
+    "title": "OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics",
+    "authors": [
+      "Prabhushankar, Mohit",
+      "Kokilepersaud, Kiran",
+      "Logan, Yash-yee",
+      "Corona, Stephanie Trejo",
+      "AlRegib, Ghassan",
+      "Wykoff, Charles"
+    ],
+    "year": 2022,
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "url": "https://arxiv.org/abs/2209.11195",
+    "origin": "survey",
+    "survey_sections": [
+      "4.6"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "Provides longitudinal clinical and biomarker information for studying medical representations and transfer.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2209.11195",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics"
+    },
+    "code_url": "https://github.com/olivesgatech/OLIVES_Dataset",
+    "code_verification": {
+      "checked_on": "2026-10-05",
+      "http_status": 200,
+      "resolved_url": "https://github.com/olivesgatech/OLIVES_Dataset",
+      "page_title": "GitHub - olivesgatech/OLIVES_Dataset · GitHub"
+    }
+  },
+  {
+    "id": "darai",
+    "title": "Hierarchical and Multimodal Data for Daily Activity Understanding",
+    "authors": [
+      "Kaviani, Ghazal",
+      "Yarici, Yavuz",
+      "Kim, Seulgi",
+      "Prabhushankar, Mohit",
+      "AlRegib, Ghassan",
+      "Solh, Mashhour",
+      "Patil, Ameya"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2504.17696",
+    "origin": "survey",
+    "survey_sections": [
+      "3.6"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "Supplies multimodal daily-activity observations and hierarchical labels for fusion evaluation.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2504.17696",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Hierarchical and Multimodal Data for Daily Activity Understanding"
+    }
+  },
+  {
+    "id": "cracks",
+    "title": "CRACKS: Crowdsourcing Resources for Analysis and Categorization of Key Subsurface Faults",
+    "authors": [
+      "Prabhushankar, Mohit",
+      "Kokilepersaud, Kiran",
+      "Quesada, Jorge",
+      "Yarici, Yavuz",
+      "Zhou, Chen",
+      "Alotaibi, Mohammad",
+      "AlRegib, Ghassan",
+      "Mustafa, Ahmad",
+      "Kumakov, Yusufjon"
+    ],
+    "year": 2024,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2408.11185",
+    "origin": "survey",
+    "survey_sections": [
+      "4.7"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "evaluation",
+    "annotation": "Provides subsurface fault annotations for examining domain expertise and annotation variability.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2408.11185",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "CRACKS: Crowdsourcing Resources for Analysis and Categorization of Key Subsurface faults"
+    }
+  },
+  {
+    "id": "ewc",
+    "title": "Overcoming Catastrophic Forgetting in Neural Networks",
+    "authors": [
+      "Kirkpatrick, James",
+      "Pascanu, Razvan",
+      "Rabinowitz, Neil",
+      "Veness, Joel",
+      "Desjardins, Guillaume",
+      "Rusu, Andrei A.",
+      "Milan, Kieran",
+      "Quan, John",
+      "Ramalho, Tiago",
+      "Grabska-Barwinska, Agnieszka",
+      "Hassabis, Demis",
+      "Clopath, Claudia",
+      "Kumaran, Dharshan",
+      "Hadsell, Raia"
+    ],
+    "year": 2017,
+    "venue": "PNAS",
+    "url": "https://arxiv.org/abs/1612.00796",
+    "origin": "survey",
+    "survey_sections": [
+      "7.7",
+      "8.1.2"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "feedback",
+    "annotation": "Constrains sequential parameter changes to protect previously acquired capabilities.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1612.00796",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Overcoming catastrophic forgetting in neural networks"
+    }
+  },
+  {
+    "id": "gem",
+    "title": "Gradient Episodic Memory for Continual Learning",
+    "authors": [
+      "Lopez-Paz, David",
+      "Ranzato, Marc'Aurelio"
+    ],
+    "year": 2017,
+    "venue": "NeurIPS",
+    "url": "https://arxiv.org/abs/1706.08840",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "feedback",
+    "annotation": "Uses remembered examples to constrain updates and evaluate the retention side of the feedback loop.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1706.08840",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Gradient Episodic Memory for Continual Learning"
+    }
+  },
+  {
+    "id": "unlearning",
+    "title": "Machine Unlearning",
+    "authors": [
+      "Bourtoule, Lucas",
+      "Chandrasekaran, Varun",
+      "Choquette-Choo, Christopher A.",
+      "Jia, Hengrui",
+      "Travers, Adelin",
+      "Zhang, Baiwu",
+      "Lie, David",
+      "Papernot, Nicolas"
+    ],
+    "year": 2021,
+    "venue": "IEEE S&P",
+    "url": "https://arxiv.org/abs/1912.03817",
+    "origin": "survey",
+    "survey_sections": [
+      "8.3"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "feedback",
+    "annotation": "Makes removal requests part of model maintenance and distinguishes unlearning from ordinary output suppression.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1912.03817",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Machine Unlearning"
+    }
+  },
+  {
+    "id": "underspecification",
+    "title": "Underspecification Presents Challenges for Credibility in Modern Machine Learning",
+    "authors": [
+      "D'Amour, Alexander",
+      "Heller, Katherine",
+      "Moldovan, Dan",
+      "Adlam, Ben",
+      "Alipanahi, Babak",
+      "Beutel, Alex",
+      "Chen, Christina",
+      "Deaton, Jonathan",
+      "Eisenstein, Jacob",
+      "Hoffman, Matthew D.",
+      "Hormozdiari, Farhad",
+      "Houlsby, Neil",
+      "Hou, Shaobo",
+      "Jerfel, Ghassen",
+      "Karthikesalingam, Alan",
+      "Lucic, Mario",
+      "Ma, Yian",
+      "McLean, Cory",
+      "Mincu, Diana",
+      "Mitani, Akinori",
+      "Montanari, Andrea",
+      "Nado, Zachary",
+      "Natarajan, Vivek",
+      "Nielson, Christopher",
+      "Osborne, Thomas F.",
+      "Raman, Rajiv",
+      "Ramasamy, Kim",
+      "Sayres, Rory",
+      "Schrouff, Jessica",
+      "Seneviratne, Martin",
+      "Sequeira, Shannon",
+      "Suresh, Harini",
+      "Veitch, Victor",
+      "Vladymyrov, Max",
+      "Wang, Xuezhi",
+      "Webster, Kellie",
+      "Yadlowsky, Steve",
+      "Yun, Taedong",
+      "Zhai, Xiaohua",
+      "Sculley, D."
+    ],
+    "year": 2022,
+    "venue": "JMLR",
+    "url": "https://arxiv.org/abs/2011.03395",
+    "origin": "survey",
+    "survey_sections": [
+      "8.3"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "feedback",
+    "annotation": "Shows why equally good held-out scores can mask different downstream failure behavior.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2011.03395",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Underspecification Presents Challenges for Credibility in Modern Machine Learning"
+    }
+  },
+  {
+    "id": "technicaldebt",
+    "title": "Hidden Technical Debt in Machine Learning Systems",
+    "authors": [
+      "Sculley, D.",
+      "Holt, Gary",
+      "Golovin, Daniel",
+      "Davydov, Eugene",
+      "Phillips, Todd",
+      "Ebner, Dietmar",
+      "Chaudhary, Vinay",
+      "Young, Michael",
+      "Crespo, Jean-François",
+      "Dennison, Dan"
+    ],
+    "year": 2015,
+    "venue": "NeurIPS",
+    "url": "https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "feedback",
+    "annotation": "Places data dependencies, monitoring and system maintenance around the model itself.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Hidden Technical Debt in Machine Learning Systems"
+    }
+  },
+  {
+    "id": "modelcards",
+    "title": "Model Cards for Model Reporting",
+    "authors": [
+      "Mitchell, Margaret",
+      "Wu, Simone",
+      "Zaldivar, Andrew",
+      "Barnes, Parker",
+      "Vasserman, Lucy",
+      "Hutchinson, Ben",
+      "Spitzer, Elena",
+      "Raji, Inioluwa Deborah",
+      "Gebru, Timnit"
+    ],
+    "year": 2019,
+    "venue": "FAT*",
+    "url": "https://arxiv.org/abs/1810.03993",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Documents intended uses, subgroup evaluation and limitations at model release and after updates.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1810.03993",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Model Cards for Model Reporting"
+    }
+  },
+  {
+    "id": "datasheets",
+    "title": "Datasheets for Datasets",
+    "authors": [
+      "Gebru, Timnit",
+      "Morgenstern, Jamie",
+      "Vecchione, Briana",
+      "Vaughan, Jennifer Wortman",
+      "Wallach, Hanna",
+      "Daumé III, Hal",
+      "Crawford, Kate"
+    ],
+    "year": 2021,
+    "venue": "Communications of the ACM",
+    "url": "https://arxiv.org/abs/1803.09010",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Documents dataset collection, composition and maintenance so provenance survives downstream reuse.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1803.09010",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Datasheets for Datasets"
+    }
+  },
+  {
+    "id": "gendershades",
+    "title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+    "authors": [
+      "Joy Buolamwini",
+      "Timnit Gebru"
+    ],
+    "year": 2018,
+    "venue": "FAT*",
+    "url": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+    "origin": "survey",
+    "survey_sections": [
+      "8.4"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Demonstrates why disaggregated performance can expose failures hidden by overall accuracy.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://proceedings.mlr.press/v81/buolamwini18a.html",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification"
+    }
+  },
+  {
+    "id": "membership",
+    "title": "Membership Inference Attacks Against Machine Learning Models",
+    "authors": [
+      "Shokri, Reza",
+      "Stronati, Marco",
+      "Song, Congzheng",
+      "Shmatikov, Vitaly"
+    ],
+    "year": 2017,
+    "venue": "IEEE S&P",
+    "url": "https://arxiv.org/abs/1610.05820",
+    "origin": "survey",
+    "survey_sections": [
+      "8.4"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Tests whether model behavior reveals participation in training data.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/1610.05820",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Membership Inference Attacks against Machine Learning Models"
+    }
+  },
+  {
+    "id": "trainingdataextraction",
+    "title": "Extracting Training Data from Large Language Models",
+    "authors": [
+      "Carlini, Nicholas",
+      "Tramer, Florian",
+      "Wallace, Eric",
+      "Jagielski, Matthew",
+      "Herbert-Voss, Ariel",
+      "Lee, Katherine",
+      "Roberts, Adam",
+      "Brown, Tom",
+      "Song, Dawn",
+      "Erlingsson, Ulfar",
+      "Oprea, Alina",
+      "Raffel, Colin"
+    ],
+    "year": 2021,
+    "venue": "USENIX Security",
+    "url": "https://arxiv.org/abs/2012.07805",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Connects pretraining memorization with privacy failures observable after deployment.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://arxiv.org/abs/2012.07805",
+      "http_status": 200,
+      "method": "primary-source metadata",
+      "source_title": "Extracting Training Data from Large Language Models"
+    }
+  },
+  {
+    "id": "nistrmf",
+    "title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)",
+    "authors": [
+      "{National Institute of Standards and Technology}"
+    ],
+    "year": 2023,
+    "venue": "NIST AI 100-1",
+    "url": "https://doi.org/10.6028/NIST.AI.100-1",
+    "origin": "survey",
+    "survey_sections": [
+      "8.3",
+      "8.4"
+    ],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Organizes lifecycle risk work through Govern, Map, Measure and Manage.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://doi.org/10.6028/NIST.AI.100-1",
+      "http_status": 200,
+      "method": "primary-source page/report review",
+      "source_title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0)"
+    }
+  },
+  {
+    "id": "nistgenai",
+    "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "authors": [
+      "{National Institute of Standards and Technology}"
+    ],
+    "year": 2024,
+    "venue": "NIST AI 600-1",
+    "url": "https://doi.org/10.6028/NIST.AI.600-1",
+    "origin": "addition",
+    "survey_sections": [],
+    "stage": "Across the lifecycle",
+    "topic": "governance",
+    "annotation": "Extends lifecycle risk management to the deployment and evaluation of generative AI systems.",
+    "verification": {
+      "checked_on": "2026-10-05",
+      "source_url": "https://doi.org/10.6028/NIST.AI.600-1",
+      "http_status": 200,
+      "method": "primary-source page/report review",
+      "source_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile"
+    }
+  }
+]

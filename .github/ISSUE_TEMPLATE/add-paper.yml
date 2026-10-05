@@ -1,0 +1,39 @@
+name: Suggest a paper or resource
+description: Add a resource with a clear role in the foundation model lifecycle.
+title: "[Resource] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Full title and year
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Primary paper or project URL
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Primary lifecycle role
+      options:
+        - A priori - representation learning
+        - A posteriori - adaptation or alignment
+        - Post hoc - evaluation or diagnosis
+        - Across the lifecycle - evaluation, feedback or governance
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Relevance, mechanism and evaluation
+      description: Explain what changes or is measured, required access, and what must be preserved.
+    validations:
+      required: true
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Manuscript connection and optional author code
+      description: Give the manuscript section if cited there; otherwise identify this as an additional work.

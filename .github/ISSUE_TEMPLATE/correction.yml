@@ -1,0 +1,16 @@
+name: Correct a link, citation or classification
+description: Report a bibliographic or lifecycle classification issue.
+title: "[Correction] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or affected file
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction and primary-source evidence
+    validations:
+      required: true

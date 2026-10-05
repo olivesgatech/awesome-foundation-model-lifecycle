@@ -1,0 +1,86 @@
+[
+  {
+    "id": "foundations",
+    "stage": "Across the lifecycle",
+    "title": "Foundations and the learning–robustness tradeoff",
+    "question": "What should remain invariant, and what should change when the target changes?"
+  },
+  {
+    "id": "ssl",
+    "stage": "A priori",
+    "title": "Self-supervised learning and representation dynamics",
+    "question": "Learn useful representations, distinguish encoder and projector behavior, and measure collapse over time."
+  },
+  {
+    "id": "architecture",
+    "stage": "A priori",
+    "title": "Architectures and multimodal fusion",
+    "question": "Examine tokenization, attention, complementary information and failure under missing or dominant modalities."
+  },
+  {
+    "id": "data",
+    "stage": "A priori",
+    "title": "Data and pretraining choices",
+    "question": "Track how curation, duplication, compute and compromised training affect later behavior."
+  },
+  {
+    "id": "adaptation",
+    "stage": "A posteriori",
+    "title": "Adaptation, task heads, and interaction",
+    "question": "Adapt a pretrained model under explicit data, parameter and interface constraints."
+  },
+  {
+    "id": "alignment",
+    "stage": "A posteriori",
+    "title": "Human preferences and representational alignment",
+    "question": "Separate preference optimization and human similarity from robustness guarantees."
+  },
+  {
+    "id": "editing",
+    "stage": "A posteriori",
+    "title": "Representation, model, and visual editing",
+    "question": "Identify what is edited, how local the change should be, and which unrelated behaviors must survive."
+  },
+  {
+    "id": "detection",
+    "stage": "Post hoc",
+    "title": "Failure detection and prediction trust",
+    "question": "Distinguish incorrect predictions, shifted distributions, anomalies, novelty and adversarial inputs."
+  },
+  {
+    "id": "redteaming",
+    "stage": "Post hoc",
+    "title": "Red teaming and runtime safeguards",
+    "question": "Discover failures under reproducible conditions, then evaluate mitigation together with benign utility."
+  },
+  {
+    "id": "transparency",
+    "stage": "Post hoc",
+    "title": "Explanations, introspection, and mechanistic transparency",
+    "question": "Ask what supports a decision, whether an explanation is faithful, and how diagnostic features can inform decisions."
+  },
+  {
+    "id": "uncertainty",
+    "stage": "Post hoc",
+    "title": "Uncertainty, calibration, and selective decisions",
+    "question": "Separate ranking, calibrated probability, coverage and explanatory uncertainty."
+  },
+  {
+    "id": "evaluation",
+    "stage": "Across the lifecycle",
+    "title": "Benchmarks and domain resources",
+    "question": "Evaluate different failure families and domains with their original protocols."
+  },
+  {
+    "id": "feedback",
+    "stage": "Across the lifecycle",
+    "title": "Feedback, continual learning, and maintenance",
+    "question": "Turn validated failure evidence into updates while retaining prior capabilities."
+  },
+  {
+    "id": "governance",
+    "stage": "Across the lifecycle",
+    "title": "Socio-technical robustness and documentation",
+    "question": "Preserve provenance, evaluate affected groups and privacy, and assign responsibility for deployment outcomes."
+  }
+]
