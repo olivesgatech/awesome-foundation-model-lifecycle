@@ -1,0 +1,42 @@
+{
+  "checked_at_utc": "2026-10-05T12:34:13+00:00",
+  "result": "passed",
+  "offline_validation": {
+    "catalog_entries": 138,
+    "manuscript_entries": 104,
+    "added_entries": 34,
+    "code_links": 42,
+    "topics": 14,
+    "markdown_files": 14,
+    "local_links_checked": 235,
+    "bibliography_entries": 138,
+    "errors": []
+  },
+  "additional_local_checks": {
+    "python_syntax": "passed",
+    "yaml_files_parsed": 4,
+    "bibtex_braces": "balanced",
+    "private_workspace_identifiers": "none in deliverable"
+  },
+  "external_checks": {
+    "primary_source_records_checked": 138,
+    "primary_source_http_200": 138,
+    "code_project_links_checked": 42,
+    "code_project_http_200": 42,
+    "date": "2026-10-05",
+    "scope": "Primary titles/authors and publication metadata reviewed; code/project links checked for reachability and attribution. Linked implementations and experiments were not executed."
+  },
+  "archive_validation": {
+    "file_count": 26,
+    "top_level_directory": "awesome-foundation-model-lifecycle",
+    "zip_crc": "passed",
+    "relative_member_paths": "passed",
+    "extracted_repository_validation": "passed",
+    "includes_github_configuration": true
+  },
+  "remaining_author_items": [
+    "Public manuscript URL and final citation",
+    "Optional manuscript figures",
+    "Repository reuse license"
+  ]
+}
