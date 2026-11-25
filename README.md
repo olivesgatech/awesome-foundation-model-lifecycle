@@ -6,8 +6,6 @@ A curated collection of papers, benchmarks, and research resources organized aro
 
 Companion to **Robustness in Foundation Models: A Priori, A Posteriori, and Post-hoc Robustness** published in the **Foundations and Trends in Computer Graphics and Vision** journal, by **Ghassan AlRegib and Mohit Prabhushankar**.
 
-> Key Insight: Robustness is a lifecycle responsibility: representation choices constrain adaptation; adaptation changes what must be evaluated; deployment failures supply evidence for the next update.
-
 **[Lifecycle guide](docs/lifecycle.md) · [Reading paths](docs/reading-paths.md) · [Benchmarks and metrics](docs/benchmarks.md) · [Case studies](docs/case-studies.md) · [Paper map](docs/paper-map.md) · [BibTeX](references.bib) · [Contribute](CONTRIBUTING.md)**
 
 ## Survey
