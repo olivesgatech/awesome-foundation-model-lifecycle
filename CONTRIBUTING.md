@@ -33,4 +33,4 @@ Use the correction issue template for broken links, attribution, metadata, or li
 
 ## Figures and reuse
 
-Use original exports, descriptive alt text, and source attribution. Follow the [figure plan](assets/figures/README.md). Linked publications and code remain governed by their own terms; see [LICENSE.md](LICENSE.md) for the repository's pending license decision.
+Use original exports, descriptive alt text, and source attribution. Follow the [figure plan](assets/figures/README.md). Linked publications and code remain governed by their own terms; see [LICENSE.md](LICENSE.md) for the repository's license (CC BY-NC 4.0).
