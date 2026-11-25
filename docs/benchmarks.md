@@ -41,8 +41,6 @@ For ROME-style factual editing, consult the original paper's **CounterFact** set
 
 **Record score direction.** Some methods produce confidence, others uncertainty. Specify the positive class and which side of the threshold is accepted. AUROC measures ranking; it does not establish that a score is a calibrated probability. AUPRC depends on prevalence. A detector can reject failures without improving the base model itself.
 
-The manuscript's **AUAC/AUFC** uses its own percentile/performance construction. State exactly whether a point describes a percentile bin or a retained subset before reproducing a curve. Do not relabel it as standard risk–coverage evaluation without matching the definitions.
-
 ## Jailbreak and application evaluation
 
 | Resource | What it contributes | Pair with |
@@ -68,8 +66,6 @@ NLL and Brier score require observed targets for evaluation. The negative log-pr
 
 ## Sequential and socio-technical evaluation
 
-The following is an editorial evaluation template motivated by Chapter 8 and the linked resources, not a benchmark result reported by the manuscript.
-
 | Lifecycle claim | Evidence to record |
 | --- | --- |
 | An update fixes an observed failure | Held-out examples of the same failure family and related but unseen conditions |
@@ -80,7 +76,7 @@ The following is an editorial evaluation template motivated by Chapter 8 and the
 | A model or data version is accountable | [Model cards](../README.md#modelcards), [datasheets](../README.md#datasheets), change records and responsible owner |
 | Privacy risks are addressed empirically | Threat-specific membership/extraction evaluation and a separately validated removal process where needed |
 
-The [AI RMF 1.0](../README.md#nistrmf) and [Generative AI Profile](../README.md#nistgenai) are versioned governance references, not blanket compliance certificates. Adoption, popularity, investment, and user trust are contextual evidence; none substitutes for measured reliability.
+The [AI RMF 1.0](../README.md#nistrmf) and [Generative AI Profile](../README.md#nistgenai) are versioned governance references. Adoption, popularity, investment, and user trust are contextual evidence; none substitutes for measured reliability.
 
 ## Minimal experiment record
 
