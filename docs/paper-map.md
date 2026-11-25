@@ -2,7 +2,7 @@
 
 [Back to the collection](../README.md)
 
-Page numbers below are the manuscript's **printed page numbers**. Add four to obtain the one-based PDF page number in the supplied 217-page file. This map covers all eight chapters; the catalog intentionally selects references rather than duplicating the entire bibliography.
+Page numbers below are the manuscript's **PDF page numbers**. This map covers all eight chapters; the catalog intentionally selects references rather than duplicating the entire bibliography.
 
 | Manuscript location | Main ideas retained | Repository destination |
 | --- | --- | --- |
