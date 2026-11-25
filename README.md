@@ -63,7 +63,7 @@ This is an original repository schematic interpreting the manuscript's lifecycle
 - A posteriori robustness: [adaptation and interaction](#adaptation), [alignment](#alignment), [representation and model editing](#editing)
 - Post hoc robustness: [failure detection](#detection), [red teaming](#redteaming), [transparency](#transparency), [uncertainty and calibration](#uncertainty)
 - Across the lifecycle: [evaluation resources](#evaluation), [feedback and maintenance](#feedback), [socio-technical robustness](#governance)
-- [Scope and curation](#scope-and-curation), [contributing](CONTRIBUTING.md), [publishing this repository](docs/publishing.md)
+- [Scope and curation](#scope-and-curation), [contributing](CONTRIBUTING.md)
 
 ## How to read the list
 
@@ -428,7 +428,7 @@ Preserve provenance, evaluate affected groups and privacy, and assign responsibi
 
 This is a selective research companion to the full [manuscript](). It prioritizes mechanisms that connect lifecycle stages, foundational baselines, the manuscript's worked examples, and resources with identifiable primary sources. Classical deep-learning papers are included where they establish an idea used by foundation models.
 
-The [paper map](docs/paper-map.md) covers all eight chapters. The [editorial notes](docs/maintainer-notes.md) document metadata differences, conceptual boundaries, and remaining author-supplied details. Source checks establish bibliographic identity and link availability; they do not reproduce published experiments or audit third-party implementations.
+The [paper map](docs/paper-map.md) covers all eight chapters. The [editorial notes](docs/maintainer-notes.md) document selection criteria and maintenance procedures. Source checks establish bibliographic identity and link availability.
 
 ## Contributing
 
