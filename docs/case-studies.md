@@ -12,7 +12,7 @@ The representation `R` and the projector embedding `Z` evolve differently. The c
 
 **Lifecycle lesson:** measure trajectories, not just endpoints. Retain checkpoints and compare downstream tasks at a common budget rather than choosing a model solely for its largest effective rank.
 
-**TODO — Figure 2.4, printed p. 32 / PDF p. 36:** add the toy dynamics and training-trajectory figure. It directly supports the temporal emphasis of this repository.
+![Encoder and projector representations evolve differently during SSL training.](../assets/figures/figure-2-4-ssl-dynamics.png)
 
 ## R3D
 
@@ -22,7 +22,9 @@ Feature collapse is a loss of effective representation directions. Modal collaps
 
 **Lifecycle lesson:** check both the diversity of the fused representation and the contribution of each modality. Include unilateral sensor degradation and missing-modality tests before interpreting fusion gains as robustness.
 
-**TODO — Figure 3.2, printed p. 49 / PDF p. 53:** add the conceptual feature/modal-collapse illustration. Optionally add Figure 3.3, printed p. 60 / PDF p. 64, for before/after spectra.
+![Feature and modal collapse during multimodal fusion.](../assets/figures/figure-3-2-fusion-collapse.png)
+
+![Per-modality spectra before and after R3D fusion.](../assets/figures/figure-3-3-fusion-spectra.png)
 
 ## SAM, OCT, and seismic transfer
 
@@ -34,7 +36,7 @@ Feature collapse is a loss of effective representation directions. Modal collaps
 | Clinical representation learning and biomarker heads | [Clinical OCT](../README.md#clinicaloct), [OLIVES](../README.md#olives) | Abundant clinical labels and scarce expert biomarker labels support different learning stages; prevent patient leakage |
 | Geological fault delineation | [Fault benchmark](../README.md#faultbenchmark), [CRACKS](../README.md#cracks) | A shared backbone does not eliminate acquisition, preprocessing, label, or structural mismatch |
 
-**TODO — Figure 4.1, printed p. 73 / PDF p. 77:** illustrate the clinical-label encoder stage followed by biomarker-head training.
+![Block diagram illustrate the clinical-label encoder stage followed by biomarker-head training.](../assets/figures/figure-4-1-clinical-transfer.jpg)
 
 ## HEX
 
@@ -44,7 +46,7 @@ Hierarchical groups emerge in SSL representations and can exhibit local collapse
 
 **Lifecycle lesson:** chapter context and intervention time are separate axes. A method discussed under alignment can still act during pretraining. Compare local and global structure and evaluate the downstream consequences of both.
 
-**TODO — Figure 5.2, printed p. 88 / PDF p. 92:** add the hierarchy-aware loss diagram; Figure 5.3 can accompany local/global rank comparisons.
+![Hierarchy-aware loss block diagram i HEX case study.](../assets/figures/figure-5-2-hex.jpg)
 
 ## Visual editing and VOID
 
@@ -54,8 +56,6 @@ Removing an object can require changing shadows, reflections, occlusions, motion
 
 **Lifecycle lesson:** the validity of a change depends on the intervention. Evaluate removal efficacy, unaffected content, temporal consistency and physical plausibility. Generated counterfactuals are hypotheses about a scene, not proof that an identified latent feature is causal.
 
-There is no numbered VOID figure in the supplied manuscript. **Optional TODO:** create an author-approved example panel or link the original project's demonstrations, with appropriate attribution.
-
 ## Gradient diagnostics
 
 **Manuscript Chapter 6 · Post hoc · [GradPurview](../README.md#gradpurview), [GradTrust](../README.md#gradtrust), [gradient anomaly detection](../README.md#gradanomaly)**
@@ -64,7 +64,11 @@ The manuscript contrasts what a trained model represents through activations wit
 
 **Lifecycle lesson:** computing diagnostic gradients is distinct from applying weight updates. A detector needs an explicit scoring convention, validation protocol and response policy. Misprediction detection within a known distribution is also different from detecting a shifted distribution.
 
-**TODO — Figure 6.2, printed p. 113 / PDF p. 117:** add the activation-versus-gradient toy example. Figure 6.4, printed p. 122 / PDF p. 126, can illustrate GradTrust.
+![Representational/effective capacity and post-hoc purview.](../assets/figures/figure-6-1-purview.pdf)
+
+![Activation versus gradient representations.](../assets/figures/figure-6-2-gradient-diagnostics.pdf)
+
+![GradTrust computation.](../assets/figures/figure-6-4-gradtrust.png)
 
 ## Jailbreak evaluation and feedback
 
@@ -82,7 +86,9 @@ The sensing model produces an initial prediction. Contrastive gradients encode a
 
 **Lifecycle lesson:** transparency features can feed another decision mechanism, but that mechanism introduces its own training and validation requirements. It should be assessed against the original predictor under matched conditions.
 
-**TODO — Figure 7.2, printed p. 139 / PDF p. 143:** add the sensing-and-reflection illustration. Figure 7.1 can introduce the different explanatory questions.
+![Three observed explanation paradigms.](../assets/figures/figure-7-1-explanation-questions.png)
+
+![Sensing-and-reflection illustration in trained models.](../assets/figures/figure-7-2-introspection.png)
 
 ## VOICE
 
@@ -92,8 +98,8 @@ VOICE visualizes and quantifies uncertainty associated with gradient-based expla
 
 **Lifecycle lesson:** confidence in a prediction and confidence in its explanation are distinct. Explanations used in human review need their own uncertainty and faithfulness assessment.
 
-**TODO — Figure 7.3, printed p. 154 / PDF p. 158:** add the explanation/uncertainty comparison. The supplied caption points to the GradTrust reference; the VOICE discussion cites the VOICE paper. Confirm the final caption against the original source before inserting it.
+![Explanation and VOICE uncertainty.](../assets/figures/figure-7-3-voice.png) 
 
 ## From detection to a validated update
 
-An example workflow spanning the cases is: train representations with explicit collapse diagnostics; adapt a head or prompt protocol; detect uncertain or shifted outputs; inspect explanations and failure clusters; obtain reliable feedback; choose a targeted change; and retest the changed behavior together with a preservation suite. This is an editorial synthesis of the manuscript, not an implemented experimental pipeline bundled with the list.
+An example workflow spanning the cases is: train representations with explicit collapse diagnostics; adapt a head or prompt protocol; detect uncertain or shifted outputs; inspect explanations and failure clusters; obtain reliable feedback; choose a targeted change; and retest the changed behavior together with a preservation suite.
