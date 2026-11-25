@@ -4,9 +4,9 @@
 
 A curated collection of papers, benchmarks, and research resources organized around **when and how robustness is introduced, evaluated, and maintained** in a foundation model's lifecycle. Covers vision, language, multimodal models, and the systems built around them.
 
-Companion to **Robustness in Foundation Models: A Priori, A Posteriori, and Post-hoc Robustness**, by **Ghassan AlRegib and Mohit Prabhushankar**. The organizing framework comes from the supplied 2026 manuscript. Additional seminal works are marked **Added** throughout the list.
+Companion to **Robustness in Foundation Models: A Priori, A Posteriori, and Post-hoc Robustness** published in the **Foundations and Trends in Computer Graphics and Vision** journal, by **Ghassan AlRegib and Mohit Prabhushankar**.
 
-> Robustness is a lifecycle responsibility: representation choices constrain adaptation; adaptation changes what must be evaluated; deployment failures supply evidence for the next update.
+> Key Insight: Robustness is a lifecycle responsibility: representation choices constrain adaptation; adaptation changes what must be evaluated; deployment failures supply evidence for the next update.
 
 **[Lifecycle guide](docs/lifecycle.md) · [Reading paths](docs/reading-paths.md) · [Benchmarks and metrics](docs/benchmarks.md) · [Case studies](docs/case-studies.md) · [Paper map](docs/paper-map.md) · [BibTeX](references.bib) · [Contribute](CONTRIBUTING.md)**
 
@@ -14,14 +14,16 @@ Companion to **Robustness in Foundation Models: A Priori, A Posteriori, and Post
 
 | Item | Details |
 | --- | --- |
-| Authors | Ghassan AlRegib and Mohit Prabhushankar, Georgia Institute of Technology |
-| Source edition | Supplied 2026 manuscript; 217 PDF pages, with printed text and references numbered 1–213 |
-| Public paper | **TODO:** add the public manuscript or publisher landing-page URL |
-| Publication metadata | **TODO:** replace the draft citation with the final publisher citation and DOI |
-| Citation | [Draft BibTeX](docs/citation.md); [GitHub citation metadata](CITATION.cff) |
+| Authors | [Ghassan AlRegib](https://alregib.ece.gatech.edu/) and [Mohit Prabhushankar](https://sites.google.com/view/mohit-prabhushankar), Georgia Institute of Technology |
+| Journal |  [Foundations and Trends in Computer Graphics and Vision](https://www.emerald.com/ftcgv) |
+| Version of Record | [Emerald Publishing](https://www.emerald.com/ftcgv/article-abstract/18/2-3/141/1409965/Robustness-in-foundation-models?redirectedFrom=fulltext) |
+| Public paper | Author Accepted Manuscript on [Arxiv]() |
+| DOI | https://doi.org/10.1108/FTCGV-05-2026-0117  |
+| Suggested Citation | AlRegib G, Prabhushankar M (2026), "Robustness in foundation models". Foundations and Trends in Computer Graphics and Vision, Vol. 18 No. 2-3 pp. 141–334, doi: https://doi.org/10.1108/FTCGV-05-2026-0117  |
+| Full Citation | [Draft BibTeX](docs/citation.md); [GitHub citation metadata](CITATION.cff) |
+| License | [License](LICENSE.md) |
 | Images | [Figure insertion plan](assets/figures/README.md), with exact figure and page numbers |
 
-The draft cover contains placeholder publication fields, so no publisher volume, page range, or DOI is asserted here. The manuscript PDF and its figures are not bundled in this repository.
 
 ## The lifecycle at a glance
 
@@ -40,7 +42,7 @@ flowchart TD
   G -.-> F
 ```
 
-This is an original repository schematic interpreting the manuscript's lifecycle framework. **Figure 1.2 in the manuscript depicts three training stages—pretraining, task-head training, and alignment. Its last two stages both sit within the a posteriori paradigm; post hoc evaluation follows and can recur throughout deployment.**
+This is an original repository schematic interpreting the manuscript's lifecycle framework, organizes around **A priori, A posteriori, and Post hoc** paradigms.
 
 | Paradigm | Main question | Main levers | Evidence handed to the next stage |
 | --- | --- | --- | --- |
@@ -69,9 +71,9 @@ This is an original repository schematic interpreting the manuscript's lifecycle
 
 ## How to read the list
 
-**Survey §…** identifies where a work is discussed in the supplied manuscript. **Added** marks a complementary work selected for this repository. Placement reflects the **mechanism and intervention point**, not merely a paper's title or publication date. A benchmark can test several stages; a method can appear in one primary category while informing others.
+**Survey §…** identifies where a work is discussed in the manuscript. **Added** marks a complementary work selected for this repository. Note that the publication placement reflects the **mechanism and intervention point**, not merely a paper's title or publication date. For instance, benchmark papers can test several categories or paradigms; a method paper, however, may appear in one primary category while informing others.
 
-Years refer to the listed conference, journal, or report when supplied; otherwise they refer to the linked preprint. A preprint may precede a conference version. The [machine-readable catalog](data/papers.json) records source checks and provenance. Short annotations explain relevance; they do not claim every method establishes a robustness guarantee.
+**Note**: The repository presents a survey of existing papers. The [machine-readable catalog](data/papers.json) records source checks and provenance. Short annotations explain relevance; they do not claim every method establishes a robustness guarantee.
 
 <!-- BEGIN CATALOG -->
 <!-- Generated by scripts/build_catalog.py; edit data/papers.json. -->
@@ -428,9 +430,7 @@ Preserve provenance, evaluate affected groups and privacy, and assign responsibi
 
 ## Scope and curation
 
-This is a selective research companion rather than a transcription of every manuscript reference. It prioritizes mechanisms that connect lifecycle stages, foundational baselines, the manuscript's worked examples, and resources with identifiable primary sources. Classical deep-learning papers are included where they establish an idea used by foundation models.
-
-The list preserves the manuscript's broad coverage of vision and multimodal learning. Language-model alignment and red teaming sit alongside representation geometry, medical imaging, seismic interpretation, and human prompting.
+This is a selective research companion to the full [manuscript](). It prioritizes mechanisms that connect lifecycle stages, foundational baselines, the manuscript's worked examples, and resources with identifiable primary sources. Classical deep-learning papers are included where they establish an idea used by foundation models.
 
 The [paper map](docs/paper-map.md) covers all eight chapters. The [editorial notes](docs/maintainer-notes.md) document metadata differences, conceptual boundaries, and remaining author-supplied details. Source checks establish bibliographic identity and link availability; they do not reproduce published experiments or audit third-party implementations.
 
@@ -440,6 +440,4 @@ Add or correct an entry through a pull request or the issue templates. Include a
 
 ## Attribution and reuse
 
-The lifecycle organization is attributed to AlRegib and Prabhushankar's manuscript. The linked [Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) repository supplied the organizational inspiration; its descriptions and catalog were not copied. Original annotations and repository utilities were prepared for this companion collection.
-
-**TODO:** the maintainers should select the repository's public reuse license before release; see [LICENSE.md](LICENSE.md). Linked papers, code, data, and any future manuscript figures retain their own terms.
+The lifecycle organization is from the [Robustness in Foundation Models: A Priori, A Posteriori, and Post-hoc Robustness]() manuscript. The [Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) repository supplied the organizational inspiration. Original annotations and repository utilities were prepared for this companion collection.
