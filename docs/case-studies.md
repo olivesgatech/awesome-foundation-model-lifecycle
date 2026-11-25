@@ -94,7 +94,7 @@ The sensing model produces an initial prediction. Contrastive gradients encode a
 
 **Manuscript §7.8 · Post hoc · [Paper](../README.md#voice)**
 
-VOICE visualizes and quantifies uncertainty associated with gradient-based explanations using induced contrastive explanations. The repository keeps this formulation tied to the primary paper rather than reducing the method to generic input-perturbation saliency variance.
+VOICE visualizes and quantifies uncertainty associated with gradient-based explanations using induced contrastive explanations.
 
 **Lifecycle lesson:** confidence in a prediction and confidence in its explanation are distinct. Explanations used in human review need their own uncertainty and faithfulness assessment.
 
