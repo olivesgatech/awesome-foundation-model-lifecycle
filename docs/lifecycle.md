@@ -2,7 +2,7 @@
 
 [Back to the collection](../README.md)
 
-The manuscript's central move is to organize robustness by its relationship to learning. That makes a deployment failure traceable to earlier choices and gives later monitoring a role in future development. The categories below are the manuscript's organizing vocabulary, not a claim that all cited authors use the same terms.
+The manuscript's central goal is to organize robustness by its relationship to learning. That makes a deployment failure traceable to earlier choices and gives later monitoring a role in future development. 
 
 ## Two questions before selecting a method
 
@@ -17,7 +17,7 @@ The manuscript's central move is to organize robustness by its relationship to l
 | Primary robustness | Preserve an appropriate decision under label-preserving variation | A small brightness change should not change an object's class | Compare against the unchanged target within a justified perturbation set |
 | Secondary robustness | Respond consistently when the correct target changes | Moving an object should move its segmentation mask; a meaningful measurement change may change a regression target | Compare against the target appropriate to the changed input |
 
-For intuition, let `G(x)` be the target and `f(x)` the prediction. Comparing `f(x + delta)` with `G(x)` answers a different question from comparing it with `G(x + delta)`. If the two targets differ, invariance can be the wrong objective. This is a conceptual reading of Chapter 1, not a restatement or certification of its formal bounds.
+For intuition, let `G(x)` be the target and `f(x)` the prediction. Comparing `f(x + delta)` with `G(x)` answers a different question from comparing it with `G(x + delta)`. If the two targets differ, invariance can be the wrong objective. 
 
 The [excessive-invariance](../README.md#jacobsen), [accuracy–robustness tradeoff](../README.md#tsipras), and [TRADES](../README.md#trades) papers help make these distinctions concrete. A meaningful target transformation may be difficult to define for generated text or video; record the semantic or task-specific criterion rather than assuming a pixel norm transfers to every modality.
 
@@ -77,13 +77,11 @@ Useful evidence includes eigenspectra, effective rank, local/global comparisons,
 5. **Re-evaluate:** test the failure and a preservation suite; examine calibration, subgroup behavior, and sequential retention.
 6. **Release and monitor:** record versions and measure recurrence, recovery, new failures, and rollback behavior.
 
-This loop develops the operationalization in §6.4 and the continual-learning discussion in §8.1.2. The repository treats **antifragility as a research aspiration**, not a demonstrated property of all adaptive systems. Improvement on a repeated example is weaker evidence than transfer to future disturbances while retaining prior capabilities.
+This loop develops the operationalization in §6.4 and the continual-learning discussion in §8.1.2. 
 
 ## Boundaries worth preserving
 
-- **Ad hoc** describes a purpose-specific method, not a fourth chronological stage.
 - **TTA and ICL** occur at inference but perform adaptation; time of execution alone does not make them detectors.
-- **HEX** appears in the manuscript's alignment chapter but regularizes SSL training; its primary repository placement is a priori.
 - **Alignment** is not equivalent to robustness, factual accuracy, or fairness.
 - **Image/video editing** modifies generated content; model editing modifies reusable model behavior. These can share mechanisms without being interchangeable.
 - **Concept erasure** and **machine unlearning** require different evidence. A suppressed response does not prove the influence of a training record has been removed.
