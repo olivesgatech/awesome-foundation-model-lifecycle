@@ -65,5 +65,3 @@ Read Chapters 1 and 8 of the manuscript before and after this route to keep the 
 | 6 | Chapter 6 | Detection, red teaming and response policy |
 | 7 | Chapter 7 | Explanation, uncertainty and introspection |
 | 8 | Chapter 8 | Sequential improvement, human interaction and accountable maintenance |
-
-The exercises and seminar structure are repository additions, not claims or experiments from the manuscript.
