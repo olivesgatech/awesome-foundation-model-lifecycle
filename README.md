@@ -20,7 +20,7 @@ Companion to **Robustness in Foundation Models: A Priori, A Posteriori, and Post
 | Public paper | Author Accepted Manuscript on [Arxiv]() |
 | DOI | https://doi.org/10.1108/FTCGV-05-2026-0117  |
 | Suggested Citation | AlRegib G, Prabhushankar M (2026), "Robustness in foundation models". Foundations and Trends in Computer Graphics and Vision, Vol. 18 No. 2-3 pp. 141–334, doi: https://doi.org/10.1108/FTCGV-05-2026-0117  |
-| Full Citation | [Draft BibTeX](docs/citation.md); [GitHub citation metadata](CITATION.cff) |
+| Full Citation | [BibTeX](docs/citation.md); [CITATION.CFF](CITATION.cff) |
 | License | [License](LICENSE.md) |
 | Images | [Figure insertion plan](assets/figures/README.md), with exact figure and page numbers |
 
