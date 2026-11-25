@@ -1,29 +1,26 @@
 cff-version: 1.2.0
-message: "Please cite the companion manuscript. Publication metadata remains provisional; see docs/citation.md."
-type: dataset
-title: "Awesome Foundation Model Lifecycle"
-version: "0.1.0"
-date-released: 2026-10-05
+message: If you use this work, please cite it as below.
+title: Robustness in foundation models
 authors:
   - family-names: AlRegib
     given-names: Ghassan
   - family-names: Prabhushankar
     given-names: Mohit
-abstract: "A lifecycle-organized collection of research on robustness in foundation models, accompanying the authors' manuscript."
-keywords:
-  - foundation models
-  - robustness
-  - model lifecycle
-  - self-supervised learning
-  - adaptation
-  - uncertainty quantification
 preferred-citation:
-  type: unpublished
-  title: "Robustness in Foundation Models: A Priori, A Posteriori, and Post-hoc Robustness"
+  type: article
+  title: Robustness in foundation models
   authors:
     - family-names: AlRegib
       given-names: Ghassan
     - family-names: Prabhushankar
       given-names: Mohit
+  journal: Foundations and Trends in Computer Graphics and Vision
+  volume: 18
+  issue: 2-3
+  start: 141
+  end: 334
   year: 2026
-  notes: "Manuscript; final publication metadata and public URL to be supplied by the authors."
+  month: 11
+  doi: 10.1108/FTCGV-05-2026-0117
+  url: https://doi.org/10.1108/FTCGV-05-2026-0117
+  issn: 1572-2740
